@@ -1,5 +1,5 @@
 <form action="./Search">
-  <div class="form-control">
+  <div class="form-control" id="form-search">
     <div class="input-group">
 
       <!-- Select input -->
@@ -15,12 +15,13 @@
       <!-- Search input -->
       <input
         type="text"
-        placeholder="Search…"
+        placeholder="Encuentra tu manga favorito en español"
         class="input input-primary input-lg w-96 focus:outline-none"
+        id="search-input"
       />
 
       <!-- Search Button -->
-      <button class="btn bg-purple-500 btn-lg">
+      <button class="btn-primary btn-lg border-none">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           class="h-6 w-6"
@@ -37,3 +38,10 @@
     </div>
   </div>
 </form>
+
+<script is:inline>
+  document.querySelector('#search-input').addEventListener('focus', (event) => {
+    console.log('focus');
+    const form = document.querySelector('#form-search');
+  });
+</script>
