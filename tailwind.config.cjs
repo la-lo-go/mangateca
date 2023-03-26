@@ -21,6 +21,12 @@ module.exports = {
         900: "#4c1d95",
       },
     },
+    
+    extend: {
+      backgroundImage: {
+        'oceanic-gradient': 'linear-gradient(to right top, rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234))',
+      }
+    }
   },
   plugins: [],
   plugins: [require("daisyui")],

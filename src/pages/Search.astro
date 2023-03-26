@@ -1,77 +1,49 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import MangaCard from '../components/MangaCard.astro';
+import Layout from "../layouts/Layout.astro";
+import MangaCard from "../components/MangaCard.astro";
+// import {mangaCard} from "../models/MangaCard";
+
+const site = Astro.url.searchParams.get('fuente')! || ''
+const query = Astro.url.searchParams.get('search')! || ''
+
 ---
 
 <Layout title="Busqueda">
-	<main>
-		<h1><span class="text-gradient">Ñanga.es</span></h1>
-		<ul role="list" class="link-card-grid">
-			<MangaCard
-				href="https://docs.astro.build/"
-				title="Documentation"
-				body="Learn how Astro works and explore the official API docs."
-			/>
-			<MangaCard
-				href="https://astro.build/integrations/"
-				title="Integrations"
-				body="Supercharge your project with new frameworks and libraries."
-			/>
-			<MangaCard
-				href="https://astro.build/themes/"
-				title="Themes"
-				body="Explore a galaxy of community-built starter themes."
-			/>
-			<MangaCard
-				href="https://astro.build/chat/"
-				title="Community"
-				body="Come say hi to our amazing Discord community. ❤️"
-			/>
-		</ul>
-	</main>
+  <h1 class="mb-10">Búsqueda: {query}</h1>
+  <div class="flex gap-2">
+    <MangaCard
+      href="https://docs.astro.build/"
+      image="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/323c82257b2f6567fabbb7bd55bfa753.jpe"
+      name="Shingeki no Kyojin"
+      site={site}
+    />
+    <MangaCard
+      href="https://docs.astro.build/"
+      image="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/shingeki-no-kyojin-1673958348.jpg"
+      name="Shingeki no Kyojin"
+      site="MangaNyaa"
+    />
+    <MangaCard
+      href="https://docs.astro.build/"
+      image="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/323c82257b2f6567fabbb7bd55bfa753.jpe"
+      name="Shingeki no Kyojin"
+      site="MangaNyaa"
+    />
+    <MangaCard
+      href="https://docs.astro.build/"
+      image="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/323c82257b2f6567fabbb7bd55bfa753.jpe"
+      name="Shingeki no Kyojin"
+      site="MangaNyaa"
+    />
+  </div>
 </Layout>
 
 <style>
-	main {
-		margin: auto;
-		padding: 1.5rem;
-		max-width: 60ch;
-	}
-	h1 {
-		font-size: 3rem;
-		font-weight: 800;
-		margin: 0;
-	}
-	.text-gradient {
-		background-image: var(--accent-gradient);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
-		background-size: 400%;
-		background-position: 0%;
-	}
-	.instructions {
-		line-height: 1.6;
-		margin: 1rem 0;
-		border: 1px solid rgba(var(--accent), 25%);
-		background-color: white;
-		padding: 1rem;
-		border-radius: 0.4rem;
-	}
-	.instructions code {
-		font-size: 0.875em;
-		font-weight: bold;
-		background: rgba(var(--accent), 12%);
-		color: rgb(var(--accent));
-		border-radius: 4px;
-		padding: 0.3em 0.45em;
-	}
-	.instructions strong {
-		color: rgb(var(--accent));
-	}
-	.link-card-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
-		gap: 1rem;
-		padding: 0;
-	}
+  .text-gradient {
+    background-image: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 400%;
+    background-position: 0%;
+  }
 </style>
