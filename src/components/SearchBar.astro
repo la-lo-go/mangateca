@@ -3,13 +3,12 @@
     <div class="input-group">
 
       <!-- Select input -->
-      <select class="select select-lg select-primary focus:outline-none">
-        <option selected>Todas</option>
-        <option>MangaNyaa</option>
-        <option>MangaDex</option>
-        <option>TMO</option>
-        <option>MangaFox</option>
-
+      <select class="select select-lg select-primary focus:outline-none" id="fuente" name="fuente">
+        <option value="all" selected>Todas</option>
+        <option value="manganyaa">MangaNyaa</option>
+        <option value="mangadex">MangaDex</option>
+        <option value="tmo">TMO</option>
+        <option value="mangafox">MangaFox</option>
       </select>
 
       <!-- Search input -->
@@ -17,11 +16,12 @@
         type="text"
         placeholder="Encuentra tu manga favorito en español"
         class="input input-primary input-lg w-96 focus:outline-none"
-        id="search-input"
+        id="search"
+        name="search"
       />
 
       <!-- Search Button -->
-      <button class="btn-primary btn-lg border-none">
+      <button class="btn-primary btn-lg border-none" id="search-button">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           class="h-6 w-6"
@@ -38,10 +38,3 @@
     </div>
   </div>
 </form>
-
-<script is:inline>
-  document.querySelector('#search-input').addEventListener('focus', (event) => {
-    console.log('focus');
-    const form = document.querySelector('#form-search');
-  });
-</script>
