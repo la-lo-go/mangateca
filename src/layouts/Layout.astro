@@ -7,6 +7,7 @@ const { title } = Astro.props;
 const PageName = "Ñanga";
 const PageTitle = `${PageName} | ${title}`;
 import Footer from "../components/Footer.astro";
+import NavBarElements from "../components/NavBarElements.svelte";
 ---
 
 <!DOCTYPE html>
@@ -19,11 +20,11 @@ import Footer from "../components/Footer.astro";
     <title>{PageTitle}</title>
   </head>
   <body>
+    <!-- NAVBAR -->
     <div class="flex flex-col h-screen">
       <div class="drawer">
         <input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
         <div class="drawer-content flex flex-col">
-          <!-- Navbar -->
           <div class="w-full navbar bg-base-300">
             <div class="flex-none lg:hidden">
               <label for="my-drawer-3" class="btn btn-square btn-ghost">
@@ -45,21 +46,9 @@ import Footer from "../components/Footer.astro";
                 <h1><span class="text-gradient">Ñanga.es</span></h1>
               </a>
             </div>
-            <div class="mr-5 form-control">
-              <input
-                type="text"
-                placeholder="Buscar"
-                class="input input-bordered"
-              />
-            </div>
             <div class="flex-none hidden lg:block">
               <ul class="menu menu-horizontal px-1">
-                <li class="menu-item">
-                  <a href="./About">Sobre nosotros</a>
-                </li>
-                <li class="menu-item">
-                  <a href="./Contact">Contacto</a>
-                </li>
+                <NavBarElements title={title}/>
               </ul>
             </div>
           </div>
@@ -77,12 +66,7 @@ import Footer from "../components/Footer.astro";
         <div class="drawer-side">
           <label for="my-drawer-3" class="drawer-overlay"></label>
           <ul class="menu p-4 w-80 bg-base-100">
-            <li class="menu-item">
-              <a href="./About">Sobre nosotros</a>
-            </li>
-            <li class="menu-item">
-              <a href="./Contact">Contacto</a>
-            </li>
+            <NavBarElements title={title}/>
           </ul>
         </div>
       </div>
