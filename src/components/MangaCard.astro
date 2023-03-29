@@ -1,55 +1,51 @@
 ---
+import { Manga, GetColor } from "../models/Manga";
+
 export interface Props {
-  href: string;
-  name: string;
-  image: string;
-  site: string;
+  manga: Manga;
 }
 
-const { href, name, image, site } = Astro.props;
+const { manga } = Astro.props;
 ---
 
-<div class="link-card w-full">
-  <a href={href}>
-    <div class="card bg-base-100 shadow-xl">
-      <figure>
-        <img src={image} alt={name + " cover"} class="object-none w-full " />
-      </figure>
+<div class="card card-compact shadow-xl w-full sm:w-1/2 md:w-1/3 lg:w-1/3 xl:w-[12%]">
+  <a href={manga.link}>
+    <div class="card">
+      <div class="card-image aspect-2/3 relative h-full w-full">
+        <img
+          src={manga.cover}
+          alt={manga.name + " cover"}
+          class="h-full w-full rounded-t-2xl"
+        />
+        <a href={manga.link} class="absolute bottom-2 right-2">
+          <span
+            class="indicator-item badge max-w-xs"
+            class:list={[GetColor(manga.site)]}>{manga.site}</span
+          >
+        </a>
+      </div>
       <div class="card-body">
         <h3 class="card-title">
-          {name}
+          {manga.name}
         </h3>
-		<div class="badge badge-secondary">{site}</div>
+
+        <p>
+          Capitulos: {manga.chaptersNumber}
+        </p>
       </div>
     </div>
   </a>
 </div>
 
 <style>
-  .link-card {
-    display: flex;
-    padding: 0.01rem;
-    background-image: none;
+  .card {
     background-size: 400%;
-    border-radius: 1rem;
     background-position: 100%;
     transition: background-position 1s cubic-bezier(0.22, 1, 0.36, 1);
   }
 
-  .link-card > a {
-    width: 100%;
-    text-decoration: none;
-    line-height: 1.4;
-    padding: 0.3rem;
-    border-radius: 0.35rem;
-  }
-
-  .link-card:is(:hover, :focus-within) {
+  .card:is(:hover, :focus-within) {
     background-position: 0;
     background-image: var(--accent-gradient);
-  }
-
-  .link-card:is(:hover, :focus-within) h3 {
-    color: rgb(var(--accent));
   }
 </style>
