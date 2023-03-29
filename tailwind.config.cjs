@@ -25,7 +25,10 @@ module.exports = {
     extend: {
       backgroundImage: {
         'oceanic-gradient': 'linear-gradient(to right top, rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234))',
-      }
+      },
+      aspectRatio: {
+        '2/3': '2/3'
+      },
     }
   },
   plugins: [],
