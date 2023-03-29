@@ -13,3 +13,6 @@
 <li class="menu-item">
   <a href="./Contact">Contacto</a>
 </li>
+<li class="menu-item">
+  <a href="./Contribute">Contribuye</a>
+</li>
