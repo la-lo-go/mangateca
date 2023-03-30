@@ -7,7 +7,7 @@
 // These functions will throw an error if the JSON doesn't
 // match the expected interface, even if the JSON is valid.
 
-// https://app.quicktype.io/
+// Generated with https://app.quicktype.io/
 
 export interface Manga {
   name:           string;
@@ -165,16 +165,8 @@ function a(typ: any) {
   return { arrayItems: typ };
 }
 
-function u(...typs: any[]) {
-  return { unionMembers: typs };
-}
-
 function o(props: any[], additional: any) {
   return { props, additional };
-}
-
-function m(additional: any) {
-  return { props: [], additional };
 }
 
 function r(name: string) {
@@ -190,24 +182,3 @@ const typeMap: any = {
       { json: "cover", js: "cover", typ: "" },
   ], false),
 };
-
-
-export function GetColor(site : string): string {
-  let color: string = "";
-
-  switch (site.toLowerCase()) {
-    case "mangadex":
-      color = "badge-primary";
-      break;
-
-    case "manganyaa":
-      color = "badge-secondary";
-      break;
-
-    default:
-      color = "badge-accent";
-      break;
-  }
-
-  return color;
-}
