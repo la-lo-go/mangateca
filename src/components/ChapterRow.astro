@@ -1,0 +1,24 @@
+---
+export interface Props {
+  chapterNumber: number;
+  chapterName: string;
+  link: string;
+  originalLink: string;
+}
+
+const { chapterNumber, chapterName, link, originalLink } = Astro.props;
+---
+
+<tr class="hover">
+  <th>{chapterNumber}</th>
+  <td>{chapterName}</td>
+  <td
+    ><a href={originalLink}>
+      <img
+        src="/share-square.svg"
+        alt="icono ir a original"
+        class="w-6 h-6"
+      /></a
+    ></td
+  >
+</tr>
