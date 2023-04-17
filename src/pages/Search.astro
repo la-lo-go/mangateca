@@ -1,26 +1,20 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import MangaCard from "../components/MangaCard.astro";
-import { Convert, Manga } from "../models/Manga";
+import type { Manga } from "../models/Manga";
+import { MangaCollection } from "../models/MangaCollection";
+
+import mangaResponse from "../../public/data/mangas-response-example.json";
 
 const site = Astro.url.searchParams.get("fuente")! || "Todas";
 const query = Astro.url.searchParams.get("search")! || "";
 
-let mangas: Manga[] = [];
-
-const jsonString =
-  '[    {      "name": "One Piece",      "site": "Shonen","link": "https://www.shonenjump.com/","chaptersNumber": 1000,"cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LrH21KBqarkP7v2xIOen07y5dLcEs_pf1kS_PX2Q&s"},    {      "name": "Attack on Titan",      "site": "manganyaa",      "link": "https://www.shonenmagazine.com/bsm_top",      "chaptersNumber": 139,      "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91M9VaZWxOL.jpg"    },    {      "name": "Detective Conan",      "site": "MangaDex",      "link": "https://websunday.net/top",      "chaptersNumber": 1010,      "cover": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47389630-250c-40f8-88ed-c6b85e616abc/d6tf56-ed134a50-8ee9-4752-b843-fd496240edf4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3Mzg5NjMwLTI1MGMtNDBmOC04OGVkLWM2Yjg1ZTYxNmFiY1wvZDZ0ZjU2LWVkMTM0YTUwLThlZTktNDc1Mi1iODQzLWZkNDk2MjQwZWRmNC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.YHFmKnehr5XfyQdDdDTz16txN8lLLSH9Xarv0rVzj0s"    }]';
-
-try {
-  mangas = Convert.toManga(jsonString);
-} catch (e) {
-  console.log("Handle error", e);
-}
+const mangaCollection = new MangaCollection(JSON.stringify(mangaResponse));
 ---
 
 <Layout title="Busqueda">
   <h1 class="mb-10">Búsqueda: {query}</h1>
   <div class="flex items-center justify-center gap-3">
-    {mangas.map((manga: Manga) => <MangaCard manga={manga} />)}
+    {mangaCollection.mangas.map((manga: Manga) => <MangaCard manga={manga} />)}
   </div>
 </Layout>

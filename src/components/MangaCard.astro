@@ -25,13 +25,13 @@ const { manga } = Astro.props;
           class="site absolute bottom-2 right-2 hover:filter hover:brightness-95"
         >
           <span
-            class="indicator-item badge max-w-xs hover"
-            class:list={["badge-"+GetColor(manga.site), true]}>{manga.site}</span
+            class='indicator-item max-w-xs hover badge '
+            class:list={[GetColor(manga.site)]}>{manga.site}</span
           >
         </a>
       </div>
       <a href={manga.link}>
-        <div class="card-body rounded-b-2xl h-full bg-accent">
+        <div class="card-body rounded-b-2xl h-full bg-accent text-neutral">
           <h3 class="card-title text-lg">
             {manga.name}
           </h3>

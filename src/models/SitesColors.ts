@@ -1,13 +1,13 @@
 // Enum with the colors used for each site's logo
 const SitesColors : any = {
-  "mangadex": "primary",
-  "manganyaa": "secondary",
-  "inmanga": "accent",
-  "tumanganet": "success",
+  "mangadex": "badge-primary",
+  "nyaa": "badge-secondary",
+  "inmanga": "badge-accent",
+  "tumanga.net": "badge-success",
 }
 
 export function GetColor(site: string): string {
-  site = site.toLowerCase();
+  const siteL = site.toLowerCase();
   
-  return site in SitesColors ? SitesColors[site] : "info";
+  return siteL in SitesColors ? SitesColors[siteL] : "info";
 }
