@@ -1,14 +1,30 @@
+---
+const site = Astro.url.searchParams.get("fuente")! || "Todas";
+const query = Astro.url.searchParams.get("search")! || "";
+
+const options : any = {
+  "all": "Todas",
+  "manganyaa": "MangaNyaa",
+  "mangadex": "MangaDex",
+  "tmo": "TMO",
+  "mangafox": "MangaFox"
+}
+
+const optionSelected = options[site] || "Todas";
+
+// delete the option selected from the options object
+delete options[site] || delete options["all"];
+---
 <form action="./Search">
   <div class="form-control" id="form-search">
     <div class="input-group">
 
       <!-- Select input -->
       <select class="select select-lg select-primary focus:outline-none" id="fuente" name="fuente">
-        <option value="all" selected>Todas</option>
-        <option value="manganyaa">MangaNyaa</option>
-        <option value="mangadex">MangaDex</option>
-        <option value="tmo">TMO</option>
-        <option value="mangafox">MangaFox</option>
+        <option selected value={site}>{optionSelected}</option>
+        {Object.entries(options).map(([key, value]) => {
+          return <option value={key}>{value}</option>
+        })}
       </select>
 
       <!-- Search input -->
@@ -18,6 +34,7 @@
         class="input input-primary input-lg w-96 focus:outline-none"
         id="search"
         name="search"
+        value={query}
       />
 
       <!-- Search Button -->
