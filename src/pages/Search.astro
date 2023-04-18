@@ -2,19 +2,19 @@
 import Layout from "../layouts/Layout.astro";
 import MangaCard from "../components/MangaCard.astro";
 import type { Manga } from "../models/Manga";
-import { MangaCollection } from "../models/MangaCollection";
+import { GenericCollection } from "../models/GenericCollection";
 
 import mangaResponse from "../../public/data/mangas-response-example.json";
 
 const site = Astro.url.searchParams.get("fuente")! || "Todas";
 const query = Astro.url.searchParams.get("search")! || "";
 
-const mangaCollection = new MangaCollection(JSON.stringify(mangaResponse));
+const mangaCollection = new GenericCollection<Manga>(JSON.stringify(mangaResponse));
 ---
 
 <Layout title="Busqueda">
   <h1 class="mb-10">Búsqueda: {query}</h1>
   <div class="flex items-center justify-center gap-3">
-    {mangaCollection.mangas.map((manga: Manga) => <MangaCard manga={manga} />)}
+    {mangaCollection.items.map((manga: Manga) => <MangaCard manga={manga} />)}
   </div>
 </Layout>
