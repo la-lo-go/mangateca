@@ -1,0 +1,29 @@
+---
+import { GetColor } from "../models/SitesColors";
+
+export interface Props {
+    image: string;
+    alt: string;
+    site: string;
+    originalLink: string;
+}
+
+const {image, alt, site, originalLink} = Astro.props;
+---
+
+<div class="aspect-2/3 relative container">
+    <img
+      src={image}
+      alt={alt}
+      class="h-full w-full rounded-t-2xl"
+    />
+    <a
+      href={originalLink}
+      class="transition site absolute bottom-2 right-2 hover hover:scale-105"
+    >
+      <span
+        class='indicator-item max-w-xs hover badge '
+        class:list={[GetColor(site)]}>{site}</span
+      >
+    </a>
+  </div>
