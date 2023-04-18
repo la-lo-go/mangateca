@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import MangaCard from "../components/MangaCard.astro";
+import SearchBar from "../components/SearchBar.astro";
 import type { Manga } from "../models/Manga";
 import { GenericCollection } from "../models/GenericCollection";
 
@@ -13,8 +14,9 @@ const mangaCollection = new GenericCollection<Manga>(JSON.stringify(mangaRespons
 ---
 
 <Layout title="Busqueda">
-  <h1 class="mb-10">Búsqueda: {query}</h1>
-  <div class="flex items-center justify-center gap-3">
+  <SearchBar/>
+  
+  <div class="mt-6 flex items-center justify-center gap-3">
     {mangaCollection.items.map((manga: Manga) => <MangaCard manga={manga} />)}
   </div>
 </Layout>
