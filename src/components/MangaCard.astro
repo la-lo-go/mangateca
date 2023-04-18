@@ -7,9 +7,11 @@ export interface Props {
 }
 
 const { manga } = Astro.props;
+
+const mangatecaLink = `/Manga?nombre=${manga.name}&site=${manga.site}`;
 ---
 
-<a href={manga.link}>
+<a href={mangatecaLink}>
   <div class="card card-compact shadow-xl container lg:w-2/12 p-1 bg-accent">
     <div class="card">
       <MangaCover
@@ -18,7 +20,7 @@ const { manga } = Astro.props;
         site={manga.site}
         originalLink={manga.link}
       />
-      <a href={manga.link}>
+      <a href={mangatecaLink}>
         <div class="card-body rounded-b-2xl h-ful text-neutral">
           <h3 class="card-title text-lg">
             {manga.name}
