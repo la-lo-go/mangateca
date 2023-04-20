@@ -15,13 +15,13 @@ const optionSelected = options[site] || "Todas";
 // delete the option selected from the options object
 delete options[site] || delete options["all"];
 ---
-<form action="./Search">
+<form action="./Search" class="w-full">
   <div class="form-control" id="form-search">
     <div class="input-group">
 
       <!-- Select input -->
-      <select class="select select-lg select-primary focus:outline-none" id="fuente" name="fuente">
-        <option selected value={site}>{optionSelected}</option>
+      <select class="select select-lg max-lg:select-md max-sm:w-10 select-primary focus:outline-none" id="fuente" name="fuente">
+        <option selected={optionSelected} value={site}>{optionSelected}</option>
         {Object.entries(options).map(([key, value]) => {
           return <option value={key}>{value}</option>
         })}
@@ -31,14 +31,14 @@ delete options[site] || delete options["all"];
       <input
         type="text"
         placeholder="Encuentra tu manga favorito en español"
-        class="input input-primary input-lg w-96 focus:outline-none"
+        class="input input-primary input-lg w-full md:flex-1 max-lg:input-md focus:outline-none"
         id="search"
         name="search"
         value={query}
       />
 
       <!-- Search Button -->
-      <button class="btn-primary btn-lg border-none" id="search-button">
+      <button class="btn-primary btn-lg max-lg:btn-md border-none" id="search-button">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           class="h-6 w-6"
