@@ -2,29 +2,47 @@
 const site = Astro.url.searchParams.get("fuente")! || "Todas";
 const query = Astro.url.searchParams.get("search")! || "";
 
-const options : any = {
-  "all": "Todas",
-  "manganyaa": "MangaNyaa",
-  "mangadex": "MangaDex",
-  "tmo": "TMO",
-  "mangafox": "MangaFox"
+interface StringDictionary {
+  [key: string]: string;
 }
 
-const optionSelected = options[site] || "Todas";
+const options: StringDictionary = {
+  all: "Todas",
+  manganyaa: "MangaNyaa",
+  mangadex: "MangaDex",
+  tmo: "TMO",
+  mangafox: "MangaFox",
+};
 
-// delete the option selected from the options object
-delete options[site] || delete options["all"];
+const optionSelected = options[site];
 ---
-<form action="./Search" class="w-full">
+
+<form action="./Search" class="w-3/5 max-xl:w-full">
   <div class="form-control" id="form-search">
     <div class="input-group">
-
       <!-- Select input -->
-      <select class="select select-lg max-lg:select-md max-sm:w-10 select-primary focus:outline-none" id="fuente" name="fuente">
-        <option selected={optionSelected} value={site}>{optionSelected}</option>
-        {Object.entries(options).map(([key, value]) => {
-          return <option value={key}>{value}</option>
-        })}
+      <select
+        class="select select-lg max-lg:select-md max-sm:w-10 select-primary focus:outline-none"
+        id="fuente"
+        name="fuente"
+      >
+        {
+          () => {
+            if (optionSelected) {
+              return (
+                <option selected={optionSelected} value={site}>
+                  {optionSelected}
+                </option>
+              );
+            }
+          }
+        }
+
+        {
+          Object.entries(options).map(([key, value]) => {
+            if (key !== site) return <option value={key}>{value}</option>;
+          })
+        }
       </select>
 
       <!-- Search input -->
@@ -38,7 +56,10 @@ delete options[site] || delete options["all"];
       />
 
       <!-- Search Button -->
-      <button class="btn-primary btn-lg max-lg:btn-md border-none" id="search-button">
+      <button
+        class="btn-primary btn-lg max-lg:btn-md border-none"
+        id="search-button"
+      >
         <svg
           xmlns="http://www.w3.org/2000/svg"
           class="h-6 w-6"
