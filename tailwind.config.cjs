@@ -36,7 +36,7 @@ module.exports = {
 
   daisyui: {
     styled: true,
-    themes: ["retro", "dracula"],
+    themes: ["winter", "dracula"],
     base: true,
     utils: true,
     logs: true,
