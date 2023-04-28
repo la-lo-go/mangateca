@@ -5,12 +5,12 @@ import SearchBar from "../components/SearchBar.astro";
 import type { Manga } from "../models/Manga";
 import { GenericCollection } from "../models/GenericCollection";
 
-import mangaResponse from "../../public/data/mangas-response-example.json";
+import searchResponse from "../../public/data/search-response-example.json";
 
 const site = Astro.url.searchParams.get("fuente")! || "Todas";
 const query = Astro.url.searchParams.get("search")! || "";
 
-const mangaCollection = new GenericCollection<Manga>(JSON.stringify(mangaResponse));
+const mangaCollection = new GenericCollection<Manga>(JSON.stringify(searchResponse));
 ---
 
 <Layout title="Busqueda">
