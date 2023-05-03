@@ -10,9 +10,9 @@ const manga : MangaInfo = mangaResponse;
 ---
 
 <Layout title="Manga">
-  <div class="mt-8 lg:-mx-6 lg:flex items-start ">
+  <div class="mt-8 lg:-mx-6 lg:flex items-start w-11/12">
     <!-- Manga Information -->
-    <div class="hero bg-base-200 rounded-xl">
+    <div class="hero bg-base-200 rounded-xl lg:min-w-fit lg:max-w-md sticky top-8 ">
       <div class="hero-content flex-col">
         <img src={manga.cover} class="max-w-sm rounded-2xl shadow-xl h-96" />
         <div class="flex flex-col items-center">
@@ -26,7 +26,7 @@ const manga : MangaInfo = mangaResponse;
     <div class="divider divider-vertical lg:divider-horizontal"></div>
 
     <!-- Manga chapters -->
-    <div class="mt-6 lg:w-2/3 lg:mt-0 lg:mx-2 min-w-full max-w-3xl mx-auto">
+    <div class="lg:w-full max-lg:mt-0 mx-auto overflow-y-auto">
         <table class="table table-auto table-zebra w-full">
           <!-- head -->
           <thead>
