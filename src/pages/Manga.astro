@@ -10,7 +10,7 @@ const manga : MangaInfo = mangaResponse;
 ---
 
 <Layout title="Manga">
-  <div class="mt-8 lg:-mx-6 lg:flex items-start w-11/12">
+  <div class="items-start w-11/12 lg:mt-8 lg:-mx-6 lg:flex">
     <!-- Manga Information -->
     <div class="hero bg-base-200 rounded-xl lg:min-w-fit lg:max-w-md sticky top-8 ">
       <div class="hero-content flex-col">
@@ -31,7 +31,7 @@ const manga : MangaInfo = mangaResponse;
           <!-- head -->
           <thead>
             <tr>
-              <th>Nº</th>
+              <th class="max-w-fit">Nº</th>
               <th>Nombre</th>
               <th>Sitio original</th>
             </tr>

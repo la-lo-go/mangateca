@@ -10,7 +10,7 @@ const { chapterNumber, chapterName, link, originalLink } = Astro.props;
 ---
 
 <tr class="hover">
-  <th>{chapterNumber}</th>
+  <th class="max-w-fit">{chapterNumber}</th>
   <td
     ><a href={originalLink} class="hover:underline truncate sm:max-md:"
       >{chapterName}</a
