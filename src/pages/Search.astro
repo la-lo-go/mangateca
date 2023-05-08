@@ -14,9 +14,11 @@ const query = Astro.url.searchParams.get("search")! || "";
 const mangaCollection = new GenericCollection<Manga>(
   JSON.stringify(searchResponse)
 );
+
+const description = `Resultados de la busqueda en Mangateca de ${query}`;
 ---
 
-<Layout title="Busqueda">
+<Layout title="Busqueda" description={description}>
   <SearchBar />
 
   <div class="mt-6 flex items-center justify-center gap-3">

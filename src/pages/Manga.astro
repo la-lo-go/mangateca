@@ -5,14 +5,16 @@ import type { MangaInfo } from "../models/MangaInfo";
 
 import mangaResponse from "../../public/data/manga-response-example.json";
 
-const manga : MangaInfo = mangaResponse;
-
+const manga: MangaInfo = mangaResponse;
+const description = `Lee ${manga.name} gratis y sin anuncios en Mangateca`;
 ---
 
-<Layout title="Manga">
+<Layout title="Manga" description={description}>
   <div class="items-start w-11/12 lg:mt-8 lg:-mx-6 lg:flex">
     <!-- Manga Information -->
-    <div class="hero bg-base-200 rounded-xl top-8 lg:min-w-fit lg:max-w-md lg:sticky">
+    <div
+      class="hero bg-base-200 rounded-xl top-8 lg:min-w-fit lg:max-w-md lg:sticky"
+    >
       <div class="hero-content flex-col">
         <img src={manga.cover} class="max-w-sm rounded-2xl shadow-xl h-96" />
         <div class="flex flex-col items-center">
@@ -27,26 +29,28 @@ const manga : MangaInfo = mangaResponse;
 
     <!-- Manga chapters -->
     <div class="lg:w-full max-lg:mt-0 mx-auto overflow-y-auto">
-        <table class="table table-auto table-zebra w-full">
-          <!-- head -->
-          <thead>
-            <tr>
-              <th class="max-w-fit">Nº</th>
-              <th>Nombre</th>
-              <th>Sitio original</th>
-            </tr>
-          </thead>
-          <tbody>
-            {manga.chaptersListed.map((chapter) => (
-              <ChapterRow 
+      <table class="table table-auto table-zebra w-full">
+        <!-- head -->
+        <thead>
+          <tr>
+            <th class="max-w-fit">Nº</th>
+            <th>Nombre</th>
+            <th>Sitio original</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            manga.chaptersListed.map((chapter) => (
+              <ChapterRow
                 chapterNumber={chapter.number}
-                chapterName={"Capítulo "+chapter.number}
+                chapterName={"Capítulo " + chapter.number}
                 link={chapter.linkOriginal}
-                originalLink={chapter.linkOriginal}                
-                />
-            ))}
-          </tbody>
-        </table>
+                originalLink={chapter.linkOriginal}
+              />
+            ))
+          }
+        </tbody>
+      </table>
     </div>
   </div>
 </Layout>

@@ -1,9 +1,11 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import SearchBar from "../components/SearchBar.astro";
+
+const description = "Mangateca te permite buscar y leer mangas de forma gratuita. ¡Encuentra tu manga favorito en español!";
 ---
 
-<Layout title="Home">
+<Layout title="Home" description={description}>
   <SearchBar />
 </Layout>
 
