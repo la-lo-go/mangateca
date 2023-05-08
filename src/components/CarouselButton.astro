@@ -21,6 +21,7 @@ const displayValue = position === "left" ? "block" : "block";
 >
   <button
     class="btn btn-circle text-3xl opacity-60 hover:opacity-80 duration-200 ease-in-out"
+    aria-label={position === "left" ? "Retroceder el carrousel" : "Avanazar el carrousel"}
   >
     {position === "left" ? <ArrowBack /> : <ArrowForward />}
   </button>
