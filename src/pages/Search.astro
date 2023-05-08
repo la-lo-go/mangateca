@@ -2,6 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 import MangaCard from "../components/MangaCard.astro";
 import SearchBar from "../components/SearchBar.astro";
+import MangasSitesGrouped from "../components/MangaSitesGrouped.astro";
 import type { Manga } from "../models/Manga";
 import { GenericCollection } from "../models/GenericCollection";
 
@@ -10,13 +11,19 @@ import searchResponse from "../../public/data/search-response-example.json";
 const site = Astro.url.searchParams.get("fuente")! || "Todas";
 const query = Astro.url.searchParams.get("search")! || "";
 
-const mangaCollection = new GenericCollection<Manga>(JSON.stringify(searchResponse));
+const mangaCollection = new GenericCollection<Manga>(
+  JSON.stringify(searchResponse)
+);
 ---
 
 <Layout title="Busqueda">
-  <SearchBar/>
-  
+  <SearchBar />
+
   <div class="mt-6 flex items-center justify-center gap-3">
     {mangaCollection.items.map((manga: Manga) => <MangaCard manga={manga} />)}
+  </div>
+
+  <div class="mt-6 p-auto m-auto max-w-full">
+    <MangasSitesGrouped searchMangasResponse={searchResponse} />
   </div>
 </Layout>

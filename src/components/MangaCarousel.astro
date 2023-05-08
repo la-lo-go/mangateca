@@ -1,0 +1,72 @@
+---
+import type { Manga } from "../models/Manga";
+import CarouselButton from "../components/CarouselButton.astro";
+
+export interface Props {
+  title: string;
+  mangas: Manga[];
+}
+
+const { title, mangas } = Astro.props;
+---
+
+<div class="flex flex-col m-auto p-auto">
+  <h2 class="py-2 ml-10 font-bold text-2xl">{title}</h2>
+
+  <div class="flex relative">
+    <CarouselButton position="left" />
+
+    <div class="flex flex-nowrap overflow-x-scroll hide-scroll-bar">
+      <div class="inline-block px-3">
+        <div
+          class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
+        >
+        </div>
+      </div>
+      <div class="inline-block px-3">
+        <div
+          class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
+        >
+        </div>
+      </div>
+      <div class="inline-block px-3">
+        <div
+          class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
+        >
+        </div>
+      </div>
+      <div class="inline-block px-3">
+        <div
+          class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
+        >
+        </div>
+      </div>
+      <div class="inline-block px-3">
+        <div
+          class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
+        >
+        </div>
+      </div>
+      <div class="inline-block px-3">
+        <div
+          class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
+        >
+        </div>
+      </div>
+      <div class="inline-block px-3">
+        <div
+          class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
+        >
+        </div>
+      </div>
+      <div class="inline-block px-3">
+        <div
+          class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
+        >
+        </div>
+      </div>
+    </div>
+
+    <CarouselButton position="right" />
+  </div>
+</div>

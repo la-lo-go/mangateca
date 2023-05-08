@@ -1,0 +1,24 @@
+---
+export interface Props {
+  position: "right" | "left";
+}
+
+const { position } = Astro.props;
+
+const positionClass = position === "right" ? "right-1" : "left-1";
+const displayValue = position === "right" ? "block" : "hidden";
+---
+
+<div
+  class:list={[
+    "h-full flex items-center absolute none",
+    positionClass,
+    displayValue,
+  ]}
+>
+  <button
+    class="btn btn-circle text-3xl opacity-60 hover:opacity-80 duration-200 ease-in-out"
+  >
+    {() => (position === "right" ? "❯" : "❮")}
+  </button>
+</div>
