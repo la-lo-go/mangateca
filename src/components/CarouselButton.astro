@@ -1,17 +1,20 @@
 ---
+import ArrowForward from "../components/icons/ArrowForward.astro";
+import ArrowBack from "../components/icons/ArrowBack.astro";
+
 export interface Props {
-  position: "right" | "left";
+  position: "left" | "right";
 }
 
 const { position } = Astro.props;
 
-const positionClass = position === "right" ? "right-1" : "left-1";
-const displayValue = position === "right" ? "block" : "hidden";
+const positionClass = position === "left" ? "left-5" : "right-1";
+const displayValue = position === "left" ? "block" : "block";
 ---
 
 <div
   class:list={[
-    "h-full flex items-center absolute none",
+    "h-full flex items-center absolute z-10",
     positionClass,
     displayValue,
   ]}
@@ -19,6 +22,6 @@ const displayValue = position === "right" ? "block" : "hidden";
   <button
     class="btn btn-circle text-3xl opacity-60 hover:opacity-80 duration-200 ease-in-out"
   >
-    {() => (position === "right" ? "❯" : "❮")}
+    {position === "left" ? <ArrowBack /> : <ArrowForward />}
   </button>
 </div>
