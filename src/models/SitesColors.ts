@@ -3,7 +3,7 @@ const SitesColors : any = {
   "mangadex": "badge-primary",
   "nyaa": "badge-secondary",
   "inmanga": "badge-accent",
-  "tumanga.net": "badge-success",
+  "tumanganet": "badge-success",
 }
 
 export function GetColor(site: string): string {
