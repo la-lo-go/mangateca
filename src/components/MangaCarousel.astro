@@ -8,40 +8,18 @@ export interface Props {
 }
 
 const { title, mangas } = Astro.props;
+
+const carouselID = title + "-carousel";
 ---
 
 <div class="flex flex-col m-auto p-auto mt-8">
   <h2 class="py-2 ml-10 font-bold text-2xl text-secondary">{title}</h2>
 
   <div class="relative">
-    <CarouselButton position="left" />
+    <CarouselButton position="left" carouselID={carouselID} />
 
-    <div id={title + "-carousel"} class="carousel flex w-screen">
-      <div class="flex flex-nowrap overflow-x-scroll">
-        <div class="inline-block px-2">
-          <div
-            class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
-          >
-          </div>
-        </div>
-        <div class="inline-block px-2">
-          <div
-            class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
-          >
-          </div>
-        </div>
-        <div class="inline-block px-2">
-          <div
-            class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
-          >
-          </div>
-        </div>
-        <div class="inline-block px-2">
-          <div
-            class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
-          >
-          </div>
-        </div>
+    <div id={carouselID} class="carousel flex overflow-x-scroll">
+      <div class="flex flex-nowrap">
         <div class="inline-block px-2">
           <div
             class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
@@ -67,8 +45,129 @@ const { title, mangas } = Astro.props;
           </div>
         </div>
       </div>
+      <div class="inline-block px-2">
+        <div
+          class="w-52 h-auto aspect-2/3 max-w-xs overflow-hidden rounded-2xl shadow-md bg-base-content"
+        >
+        </div>
+      </div>
+    </div>
 
-      <CarouselButton position="right" />
+      <CarouselButton position="right" carouselID={carouselID} />
     </div>
   </div>
 </div>
+
+<script>
+  const buttons = document.querySelectorAll(".btn-circle");
+  const carousels = document.querySelectorAll(".carousel");
+
+  // When all the data is loaded, check if the carousel is at the start, middle or end
+  window.addEventListener("load", () => {
+     buttons.forEach((button) => {
+      showOrHideButtons(button);
+    });
+  });
+
+  // When the window is resized, check if the carousel is at the start, middle or end
+  window.addEventListener("resize", () => {
+    console.log("resize");
+
+    buttons.forEach((button) => {
+      showOrHideButtons(button);
+    });
+  });
+
+  buttons.forEach((button) => {
+    const btnData = button.id.split("-");
+    const carouselID = btnData[0] + "-carousel";
+    const direction = btnData[2];
+
+    button.addEventListener("click", () => {
+      moveCarousel(carouselID, direction);
+    });
+  });
+
+  carousels.forEach((carousel) => {
+    carousel.addEventListener("scroll", () => {
+      buttons.forEach((button) => {
+        const btnData = button.id.split("-");
+        
+        // if is inside another carousel, ignore
+        if(carousel.id === btnData[0] + "-carousel") 
+          showOrHideButtons(button);
+      });
+    });
+  });
+
+  function moveCarousel(carouselID: string, direction: string) {
+    const scrollAmount = 200;
+    const scrollDirection = direction === "left" ? -scrollAmount : scrollAmount;
+
+    const carousel = document.getElementById(`${carouselID}`);
+    if (!carousel) return;
+
+    // Detect if the carousel is at the start, middle or end
+    const carouselWidth = carousel.scrollWidth;
+    const carouselScrollLeft = carousel.scrollLeft;
+    const carouselClientWidth = carousel.clientWidth;
+    const carouselScrollRight = carouselWidth - carouselClientWidth;
+
+    // If the carousel is at the end, move to the start
+    if (carouselScrollLeft === carouselScrollRight && scrollDirection > 0) {
+      carousel.scrollBy({
+        left: -carouselScrollRight,
+        behavior: "smooth",
+      });
+      return;
+    } else {
+      carousel.scrollBy({
+        left: scrollDirection,
+        behavior: "smooth",
+      });
+    }
+  }
+
+  function getPosition(carousel: HTMLElement) {
+    const carouselWidth = carousel.scrollWidth;
+    const carouselScrollLeft = carousel.scrollLeft;
+    const carouselClientWidth = carousel.clientWidth;
+    const carouselScrollRight = carouselWidth - carouselClientWidth;
+
+    // detect when there is no scroll
+    
+    if (carouselWidth === carouselClientWidth) return "none";
+    if (carouselScrollLeft === carouselScrollRight) return "end";
+    if (carouselScrollLeft === 0) return "start";
+    return "middle";
+  }
+
+  function showOrHideButtons(button: Element) {
+    const btnData = button.id.split("-");
+    const carouselID = btnData[0] + "-carousel";
+
+    const carousel = document.getElementById(`${carouselID}`);
+    if (!carousel) return;
+
+    const carouselPosition = getPosition(carousel);
+
+    if (carouselPosition === "start") {
+      if (button.id.includes("left")) {
+        button.classList.add("hidden");
+      } else {
+        button.classList.remove("hidden");
+      }
+    } else if (carouselPosition === "end") {
+      if (button.id.includes("right")) {
+        button.classList.add("hidden");
+      } else {
+        button.classList.remove("hidden");
+      }
+    } else if (carouselPosition === "middle") {
+      button.classList.remove("hidden");
+    } else {
+      button.classList.add("hidden");
+    }
+
+  }
+</script>

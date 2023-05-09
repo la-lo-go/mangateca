@@ -4,12 +4,14 @@ import ArrowBack from "../components/icons/ArrowBack.astro";
 
 export interface Props {
   position: "left" | "right";
+  carouselID: string;
 }
 
-const { position } = Astro.props;
+const { position, carouselID } = Astro.props;
 
-const positionClass = position === "left" ? "left-5" : "right-1";
+const positionClass = position === "left" ? "left-3" : "right-3";
 const displayValue = position === "left" ? "block" : "block";
+const btnID = `${carouselID}-${position}`;
 ---
 
 <div
@@ -20,6 +22,7 @@ const displayValue = position === "left" ? "block" : "block";
   ]}
 >
   <button
+    id={btnID}
     class="btn btn-circle text-3xl opacity-60 hover:opacity-80 duration-200 ease-in-out"
     aria-label={position === "left" ? "Retroceder el carrousel" : "Avanazar el carrousel"}
   >
