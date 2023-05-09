@@ -16,9 +16,10 @@ const carouselID = title + "-carousel";
   <h2 class="py-2 ml-10 font-bold text-2xl text-secondary">{title}</h2>
 
   <div class="relative">
-    <CarouselButton position="left" carouselID={carouselID} />
-
     <div id={carouselID} class="carousel flex overflow-x-scroll">
+
+      <CarouselButton position="left" carouselID={carouselID} />
+
       <div class="flex flex-nowrap">
         <div class="inline-block px-2">
           <div
@@ -51,9 +52,9 @@ const carouselID = title + "-carousel";
         >
         </div>
       </div>
-    </div>
 
       <CarouselButton position="right" carouselID={carouselID} />
+      
     </div>
   </div>
 </div>
@@ -64,7 +65,7 @@ const carouselID = title + "-carousel";
 
   // When all the data is loaded, check if the carousel is at the start, middle or end
   window.addEventListener("load", () => {
-     buttons.forEach((button) => {
+    buttons.forEach((button) => {
       showOrHideButtons(button);
     });
   });
@@ -92,10 +93,9 @@ const carouselID = title + "-carousel";
     carousel.addEventListener("scroll", () => {
       buttons.forEach((button) => {
         const btnData = button.id.split("-");
-        
+
         // if is inside another carousel, ignore
-        if(carousel.id === btnData[0] + "-carousel") 
-          showOrHideButtons(button);
+        if (carousel.id === btnData[0] + "-carousel") showOrHideButtons(button);
       });
     });
   });
@@ -135,7 +135,7 @@ const carouselID = title + "-carousel";
     const carouselScrollRight = carouselWidth - carouselClientWidth;
 
     // detect when there is no scroll
-    
+
     if (carouselWidth === carouselClientWidth) return "none";
     if (carouselScrollLeft === carouselScrollRight) return "end";
     if (carouselScrollLeft === 0) return "start";
@@ -168,6 +168,5 @@ const carouselID = title + "-carousel";
     } else {
       button.classList.add("hidden");
     }
-
   }
 </script>

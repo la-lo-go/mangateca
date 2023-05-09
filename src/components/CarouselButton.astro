@@ -10,7 +10,6 @@ export interface Props {
 const { position, carouselID } = Astro.props;
 
 const positionClass = position === "left" ? "left-3" : "right-3";
-const displayValue = position === "left" ? "block" : "block";
 const btnID = `${carouselID}-${position}`;
 ---
 
@@ -18,7 +17,6 @@ const btnID = `${carouselID}-${position}`;
   class:list={[
     "h-full flex items-center absolute z-10",
     positionClass,
-    displayValue,
   ]}
 >
   <button
