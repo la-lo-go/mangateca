@@ -18,24 +18,20 @@ export function ImageRequest({
   useEffect(() => {
     async function fetchImage() {
       try {
-        const requestOptions : RequestInit = {
-            method: 'GET',
-            headers: new Headers({
-                'Accept': 'image/*',
-                'Accept-Encoding': 'gzip, deflate, br',
-                'Access-Control-Allow-Origin': 'manganyaa.com',
-            }),
-          };
+        const apiURL = `${window.location.origin}/api/ImageRequest?link=${imageLink}`;
+        const response: Response = await fetch(apiURL);
 
-        const response: Response = await fetch(imageLink, requestOptions);
         if (response.ok) {
-          setImageSrc(imageLink);
+          const base64 = await response.text();
+          setImageSrc(`data:image/png;base64,${base64}`);
         } else {
           console.error(
             "Error requesting the image:",
             imageLink,
             response.status
           );
+          // Set the image src to the placeholder
+          setImageSrc(imagePlaceholder);
         }
       } catch (error) {
         console.error("Error fetching the image:", imageLink, error);
