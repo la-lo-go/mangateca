@@ -12,21 +12,24 @@ const mangatecaLink = `/Manga?nombre=${manga.name_joined}&site=${manga.site}`;
 ---
 
 <a href={mangatecaLink}>
-  <div class="card card-compact shadow-md p-1 bg-accent dark:bg-neutral-content h-fit">
-      <MangaCover
-        image={manga.cover}
-        alt={manga.name + " cover"}
-        site={manga.site}
-        originalLink={manga.link}
-      />
-      <a href={mangatecaLink}>
-        <div class="card-body rounded-b-2xl w-40 -m-1 text-white dark:text-neutral">
-          <h3 class="card-title text-sm font-bold capitalize">
-            {manga.name}
-          </h3>
-        </div>
-      </a>
-    </div>
+  <div
+    class="card card-compact shadow-md p-1 bg-accent dark:bg-neutral-content h-fit select-none"
+  >
+    <MangaCover
+      image={manga.cover}
+      alt={manga.name + " cover"}
+      site={manga.site}
+      originalLink={manga.link}
+    />
+    <a href={mangatecaLink}>
+      <div
+        class="card-body rounded-b-2xl w-40 -m-1 text-white dark:text-neutral"
+      >
+        <h3 class="card-title text-sm font-bold capitalize">
+          {manga.name}
+        </h3>
+      </div>
+    </a>
   </div>
 </a>
 
