@@ -1,6 +1,7 @@
 ---
 import type { Manga } from "../models/Manga";
 import CarouselButton from "../components/CarouselButton.astro";
+import MangaCard from "../components/MangaCard.astro";
 
 export interface Props {
   title: string;
@@ -12,24 +13,18 @@ const { title, mangas } = Astro.props;
 const carouselID = title + "-carousel";
 ---
 
-<div class="flex flex-col m-auto p-auto mt-8">
-  <h2 class="py-2 ml-4 font-bold text-2xl text-secondary">{title}</h2>
+<div class="flex flex-col m-auto p-auto mt-4">
+  <h2 class="pt-2 ml-4 font-bold text-2xl text-secondary">{title}</h2>
 
   <div class="relative">
     <div id={carouselID} class="carousel flex overflow-x-scroll">
       <CarouselButton position="left" carouselID={carouselID} />
 
-      <div class="flex flex-nowrap space-x-3">
-        {
-          Array.from({ length: Math.floor(Math.random() * 6) + 2 }).map(
-            (_, index) => (
-              <div class="w-52 h-auto aspect-2/3 rounded-2xl shadow-md bg-base-content"></div>
-            )
-          )
-        }
-
-        <CarouselButton position="right" carouselID={carouselID} />
+      <div class="flex flex-nowrap space-x-3 max-lg:space-x-2 my-3 m-2">
+        {mangas.map((manga) => <MangaCard manga={manga} />)}
       </div>
+      
+      <CarouselButton position="right" carouselID={carouselID} />
     </div>
 
     <script>
@@ -76,7 +71,7 @@ const carouselID = title + "-carousel";
           direction === "left" ? -scrollAmount : scrollAmount;
 
         const carousel = document.getElementById(`${carouselID}`);
-        
+
         carousel?.scrollBy({
           left: scrollDirection,
           behavior: "smooth",

@@ -11,19 +11,11 @@ import searchResponse from "../../public/data/search-response-example.json";
 const site = Astro.url.searchParams.get("fuente")! || "Todas";
 const query = Astro.url.searchParams.get("search")! || "";
 
-const mangaCollection = new GenericCollection<Manga>(
-  JSON.stringify(searchResponse)
-);
-
 const description = `Resultados de la busqueda en Mangateca de ${query}`;
 ---
 
 <Layout title="Busqueda" description={description}>
   <SearchBar />
-
-  <div class="mt-6 flex items-center justify-center gap-3">
-    {mangaCollection.items.map((manga: Manga) => <MangaCard manga={manga} />)}
-  </div>
 
   <div class="mt-6 p-auto m-auto max-w-full">
     <MangasSitesGrouped searchMangasResponse={searchResponse} />

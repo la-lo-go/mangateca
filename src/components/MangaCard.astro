@@ -8,12 +8,11 @@ export interface Props {
 
 const { manga } = Astro.props;
 
-const mangatecaLink = `/Manga?nombre=${manga.name}&site=${manga.site}`;
+const mangatecaLink = `/Manga?nombre=${manga.name_joined}&site=${manga.site}`;
 ---
 
 <a href={mangatecaLink}>
-  <div class="card card-compact shadow-xl container lg:w-2/12 p-1 bg-accent">
-    <div class="card">
+  <div class="card card-compact shadow-md p-1 bg-accent h-fit">
       <MangaCover
         image={manga.cover}
         alt={manga.name + " cover"}
@@ -21,14 +20,10 @@ const mangatecaLink = `/Manga?nombre=${manga.name}&site=${manga.site}`;
         originalLink={manga.link}
       />
       <a href={mangatecaLink}>
-        <div class="card-body rounded-b-2xl text-neutral">
-          <h3 class="card-title text-lg">
+        <div class="card-body rounded-b-2xl w-40 text-white dark:text-neutral">
+          <h3 class="card-title text-sm font-bold capitalize">
             {manga.name}
           </h3>
-
-          <p class="grow mb-auto">
-            Capitulos: {manga.chaptersNumber}
-          </p>
         </div>
       </a>
     </div>
