@@ -23,5 +23,15 @@
       "type": "image/png",
       "sizes": "512x512"
     }
+  ],
+  "screenshots" : [
+    {
+      "src": "/images/screenshots/screenshot1.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpg",
+      "platform": "narrow",
+      "label": "Homescreen of Mangateca"
+    }
   ]
+  
 }
