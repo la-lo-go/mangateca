@@ -1,6 +1,6 @@
 export interface Manga {
   name:           string;
-  name_joined:     string;
+  nameJoined:     string;
   site:           string;
   link:           string;
   chaptersNumber: number;
