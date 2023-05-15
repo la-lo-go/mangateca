@@ -12,12 +12,16 @@ const showSearchBar = title != "Home" && title != "Busqueda";
   () => {
     if (showSearchBar) {
       return (
-        <li class="menu-item mr-5 form-control">
-          <input
-            type="text"
-            placeholder="Buscar"
-            class="input input-primary input-bordered"
-          />
+        <li class="menu-item">
+          <form action="/Search" method="GET">
+            <input
+              type="text"
+              id="search"
+              name="search"
+              placeholder="Buscar"
+              class="input input-primary input-bordered"
+            />
+          </form>
         </li>
       );
     }
