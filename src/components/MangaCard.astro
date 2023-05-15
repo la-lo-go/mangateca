@@ -9,9 +9,11 @@ export interface Props {
 const { manga } = Astro.props;
 
 const mangatecaLink = `/${manga.site}/${manga.name_joined}`;
+const mangaLinkAriaLabel = `Leer ${manga.name} en ${manga.site}`;
+const mangaName = manga.name.length > 30 ? manga.name.slice(0, 30) + "..." : manga.name;
 ---
 
-<a href={mangatecaLink}>
+<a href={mangatecaLink} aria-label={mangaLinkAriaLabel}>
   <div
     class="card card-compact shadow-md p-1 bg-accent dark:bg-neutral-content h-fit select-none"
   >
@@ -21,12 +23,12 @@ const mangatecaLink = `/${manga.site}/${manga.name_joined}`;
       site={manga.site}
       originalLink={manga.link}
     />
-    <a href={mangatecaLink}>
+    <a href={mangatecaLink} aria-label={mangaLinkAriaLabel}>
       <div
-        class="card-body rounded-b-2xl w-40 -m-1 text-white dark:text-neutral"
+        class="card-body rounded-b-2xl w-40 -m-2 text-white dark:text-neutral"
       >
-        <h3 class="card-title text-sm font-bold capitalize">
-          {manga.name}
+        <h3 class="card-title text-sm font-bold capitalize max-h-16">
+          {mangaName}
         </h3>
       </div>
     </a>
