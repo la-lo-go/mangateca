@@ -10,7 +10,7 @@ const { manga } = Astro.props;
 
 const mangatecaLink = `/${manga.site}/${manga.nameJoined}`;
 const mangaLinkAriaLabel = `Leer ${manga.name} en ${manga.site}`;
-const mangaName = manga.name.length > 30 ? manga.name.slice(0, 30) + "..." : manga.name;
+const mangaName = manga.name.length > 30 ? manga.name.slice(0, 25) + "..." : manga.name;
 ---
 
 <a href={mangatecaLink} aria-label={mangaLinkAriaLabel}>
