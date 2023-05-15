@@ -5,7 +5,7 @@ import type { MangaInfo } from "../../models/MangaInfo";
 
 const { site, mangaName } = Astro.params;
 
-import mangaResponse from "../../../public/data/manga-response-example.json";
+import mangaResponse from "../../../public/test-data/manga-test-data.json";
 
 const mangaInfo: MangaInfo = mangaResponse;
 const description = `Lee ${mangaInfo.name} gratis y sin anuncios en Mangateca`;

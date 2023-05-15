@@ -3,7 +3,7 @@ import Layout from "../layouts/Layout.astro";
 import SearchBar from "../components/SearchBar.astro";
 import MangasSitesGrouped from "../components/MangaSitesGrouped.astro";
 
-import searchResponse from "../../public/data/search-response-example.json";
+import searchResponse from "../../public/test-data/search-test-data.json";
 
 const site = Astro.url.searchParams.get("fuente")! || "Todas";
 const query = Astro.url.searchParams.get("search")! || "";
