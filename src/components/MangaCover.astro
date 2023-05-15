@@ -18,7 +18,8 @@ const {image, alt, site, originalLink} = Astro.props;
       imagePlaceholder="/images/placeholders/placeholder-cover.webp"
       alt={alt}
       className="h-full w-full rounded-t-2xl"
-      client:load
+      site={site}
+      client:visible
     />
     <a
       href={originalLink}

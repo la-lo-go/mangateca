@@ -1,10 +1,12 @@
 import { useState, useEffect } from "react";
+import { GetCorsProtection } from '../models/Sites';
 
 interface ImageRequestProps {
   imageLink: string;
   imagePlaceholder: string;
   className: string;
   alt?: string | undefined;
+  site?: string | undefined;
 }
 
 export function ImageRequest({
@@ -12,10 +14,22 @@ export function ImageRequest({
   imagePlaceholder,
   className,
   alt,
+  site,
 }: ImageRequestProps) {
   const [imageSrc, setImageSrc] = useState<string>(imagePlaceholder);
 
   useEffect(() => {
+    if (imageLink === undefined || imageLink === "") {
+      setImageSrc(imagePlaceholder);
+      return;
+    }
+
+    // If the site is not protected by CORS, we can request the image directly
+    if(site && !GetCorsProtection(site)) {
+      setImageSrc(imageLink);
+      return;
+    }
+
     async function fetchImage() {
       try {
         const apiURL = `${window.location.origin}/api/ImageRequest?link=${imageLink}`;
@@ -39,6 +53,7 @@ export function ImageRequest({
     }
     fetchImage();
   }, [imageLink]);
+  
 
   return <img src={imageSrc} alt={alt} className={className} />;
 }

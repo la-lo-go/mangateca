@@ -21,7 +21,7 @@ const Sites : Sites = {
   },
   "mangafox": {
     color: "badge-success",
-    CorsProtection: false,
+    CorsProtection: true,
   },
 }
 
@@ -30,4 +30,10 @@ export function GetColor(site: string): string {
   const siteL = site.toLowerCase();
   
   return siteL in Sites ? Sites[siteL].color : "info";
+}
+
+export function GetCorsProtection(site: string): boolean {
+  const siteL = site.toLowerCase();
+  
+  return siteL in Sites ? Sites[siteL].CorsProtection : true;
 }
