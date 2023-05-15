@@ -1,12 +1,20 @@
 ---
-import Layout from "../layouts/Layout.astro";
-import ChapterRow from "../components/ChapterRow.astro";
-import type { MangaInfo } from "../models/MangaInfo";
+import Layout from "../../layouts/Layout.astro";
+import ChapterRow from "../../components/ChapterRow.astro";
+import type { MangaInfo } from "../../models/MangaInfo";
 
-import mangaResponse from "../../public/data/manga-response-example.json";
+const { site, mangaName } = Astro.params;
 
-const manga: MangaInfo = mangaResponse;
-const description = `Lee ${manga.name} gratis y sin anuncios en Mangateca`;
+console.log(site, mangaName);
+
+import mangaResponse from "../../../public/data/manga-response-example.json";
+
+const mangaInfo: MangaInfo = mangaResponse;
+const description = `Lee ${mangaInfo.name} gratis y sin anuncios en Mangateca`;
+
+if(!mangaInfo){
+  return Astro.redirect("../404");
+}
 ---
 
 <Layout title="Manga" description={description}>
@@ -16,10 +24,10 @@ const description = `Lee ${manga.name} gratis y sin anuncios en Mangateca`;
       class="hero bg-base-200 rounded-xl top-8 lg:min-w-fit lg:max-w-md lg:sticky"
     >
       <div class="hero-content flex-col">
-        <img src={manga.cover} class="max-w-sm rounded-2xl shadow-xl h-96" />
+        <img src={mangaInfo.cover} class="max-w-sm rounded-2xl shadow-xl h-96" />
         <div class="flex flex-col items-center">
-          <h1 class="text-3xl font-bold justify-center">{manga.name}</h1>
-          <p class="text-xl pb-6">{manga.chaptersNumber} capítulos</p>
+          <h1 class="text-3xl font-bold justify-center">{mangaInfo.name}</h1>
+          <p class="text-xl pb-6">{mangaInfo.chaptersNumber} capítulos</p>
           <button class="btn btn-primary">Empezar a leer</button>
         </div>
       </div>
@@ -40,7 +48,7 @@ const description = `Lee ${manga.name} gratis y sin anuncios en Mangateca`;
         </thead>
         <tbody>
           {
-            manga.chaptersListed.map((chapter) => (
+            mangaInfo.chaptersListed.map((chapter) => (
               <ChapterRow
                 chapterNumber={chapter.number}
                 chapterName={"Capítulo " + chapter.number}

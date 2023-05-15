@@ -8,7 +8,7 @@ export interface Props {
 
 const { manga } = Astro.props;
 
-const mangatecaLink = `/Manga?nombre=${manga.name_joined}&site=${manga.site}`;
+const mangatecaLink = `/${manga.site}/${manga.name_joined}`;
 ---
 
 <a href={mangatecaLink}>
