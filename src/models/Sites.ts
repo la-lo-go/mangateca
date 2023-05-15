@@ -19,7 +19,7 @@ const Sites : Sites = {
     color: "badge-accent",
     CorsProtection: false,
   },
-  "mangafox": {
+  "mangaoni": {
     color: "badge-success",
     CorsProtection: true,
   },
