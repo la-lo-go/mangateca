@@ -14,7 +14,7 @@ const description = `Resultados de la busqueda en Mangateca de ${query}`;
 <Layout title="Busqueda" description={description}>
   <SearchBar />
 
-  <div class="mt-6 p-auto m-auto max-w-full">
+  <div class="mt-6 p-auto m-auto max-w-6xl max-xl:max-w-full">
     <MangasSitesGrouped searchMangasResponse={searchResponse} />
   </div>
 </Layout>
