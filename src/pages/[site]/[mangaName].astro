@@ -5,8 +5,6 @@ import type { MangaInfo } from "../../models/MangaInfo";
 
 const { site, mangaName } = Astro.params;
 
-console.log(site, mangaName);
-
 import mangaResponse from "../../../public/data/manga-response-example.json";
 
 const mangaInfo: MangaInfo = mangaResponse;
