@@ -1,0 +1,62 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import { ImageRequest } from "../../../components/ImageRequest";
+import type { Chapter, Page } from "../../../models/Chapter";
+
+const { site, mangaName, chapterNumber } = Astro.params;
+
+import chapterResponse from "../../../../public/test-data/chapter-test-data.json";
+
+const chapter: Chapter = chapterResponse;
+const mangaNamePretty = chapter.name.replace(/-/g, " ");
+const title = `${mangaNamePretty} ${chapterNumber}`;
+const description = `Lee el capitulo número ${chapterNumber} de ${mangaNamePretty} gratis y sin anuncios en Mangateca`;
+
+if (!chapter) {
+  return Astro.redirect("/404");
+}
+---
+
+<Layout title={title} description={description}>
+  <h1 id="Titulo" class="capitalize text-2xl">
+    {mangaNamePretty} #{chapterNumber}
+  </h1>
+
+  <div class="flex flex-wrap items-center justify-center my-8 gap-8">
+    <div
+      class="flex flex-wrap items-center gap-8 w-10/12 max-md:w-screen max-md:gap-3"
+    >
+      {
+        chapter.pages.map((page: Page) => (
+          <ImageRequest
+            imageLink={page.link}
+            imagePlaceholder="/images/placeholders/placeholder-cover.webp"
+            alt={mangaNamePretty}
+            site={site}
+            className="container"
+            client:visible
+          />
+        ))
+      }
+    </div>
+
+    {
+      () => {
+        if (chapterNumber) {
+          return (
+            <div class="flex items-center justify-center w-full">
+              <div class="flex justify-around w-full">
+                <a href={`./${+chapterNumber - 1}`} class="btn">
+                  Anterior
+                </a>
+                <a href={`./${+chapterNumber + 1}`} class="btn">
+                  Siguiente
+                </a>
+              </div>
+            </div>
+          );
+        }
+      }
+    }
+  </div>
+</Layout>

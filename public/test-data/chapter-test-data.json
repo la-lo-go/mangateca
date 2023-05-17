@@ -1,0 +1,1003 @@
+{
+    "ID": 0,
+    "CreatedAt": "0001-01-01T00:00:00Z",
+    "UpdatedAt": "0001-01-01T00:00:00Z",
+    "DeletedAt": null,
+    "name": "kimetsu-no-yaiba",
+    "site": "InManga",
+    "number": 1,
+    "pagesNumber": 0,
+    "pages": [
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 1,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/f44cb8fd-2e46-4b97-8c31-b931775df4ae",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 2,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/f8d6a68c-f15e-4aae-a6cf-c5d3030aaa24",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 3,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/0e98448f-a0f3-4190-ba8e-eb1b7d2a8905",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 4,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/38705140-2b02-4688-a3d0-1c714c36fee0",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 5,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/44d83985-7299-4be5-87e4-9b6040f056cc",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 6,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/1a0a8a72-78f3-4afd-923a-62053f1d493b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 7,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/6641629d-8509-4390-af30-aaf6de77c725",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 8,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/c4d6fdd8-e447-4ffa-b071-f0f11ae93bcb",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 9,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/31072319-e8b7-4777-ba80-58bc3c23e64c",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 10,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/af828139-c577-45c6-8a4c-cd9a0c61ecfe",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 11,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/d9400518-5c53-435f-8123-c80ee2e0b41d",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 12,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/25a7ff0a-1632-463f-803d-ae9c045681bd",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 13,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/ff4b9270-e5b0-4738-bd39-51c5fb177f21",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 14,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/1022de28-3dd3-4dbd-befc-0a84438059bd",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 15,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/ae77807a-11e3-440c-97da-8fb874d99516",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 16,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/b5ba0e47-5ecc-49e2-a65c-822fcc4d42f0",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 17,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/802b7613-e2a0-4154-b3b5-2a72fa588b68",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 18,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/bc59c56d-9c19-4585-911c-b5a7028775e3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 19,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/1cdacf80-7db8-4655-828f-352c0789d6ea",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 20,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/f7f10b82-2dc5-4558-94f3-b0e155b91830",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 21,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/55a048a2-6e95-4d30-933a-b8ec7272f084",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 22,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/be78f6cd-96d2-4f28-a782-695cf7cfdb60",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 23,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/95a0746e-b966-434f-a97d-56aae01d7fee",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 24,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/69090e5c-c77d-42b0-9fca-b42be2a9b82b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 25,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/624331e1-b5a9-4ab3-9606-ba423432de3b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 26,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/0304b6f3-7cd0-4dca-b5e0-e393ce606aa0",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 27,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/0c7dbf79-0e4a-41ba-8c25-3d547e20ec0b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 28,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/e02cb23e-1e90-4428-a453-e5831e12972d",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 29,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/ad381445-8964-4b54-b3c7-43edd7577dfe",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 30,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/83415d22-f535-4a48-a63f-ba9b657fc1f8",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 31,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/0a7d1268-a33a-42e5-adc9-3683f1af7ba5",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 32,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/7bace06b-a03f-48ce-8b80-916cf3737e5b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 33,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/ce4890f5-dba9-4725-8ae6-c00a90c96da3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 34,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/50278f64-d778-4d32-a1ca-f104fa1a42b3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 35,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/b079c1de-fb4e-4bca-a7b4-a4e639844970",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 36,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/2e8f2ef7-2cea-4e72-bf7f-203bba9351f7",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 37,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/dc2b9366-fa5e-49b7-b10d-abd7f237a924",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 38,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/d27a08fe-f942-4a1e-9e40-5d0d961f2410",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 39,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/1737cdfe-2bf7-404c-99c8-9968f3f6f88a",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 40,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/6330d717-1a54-4f73-94d1-3e4f58de9445",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 41,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/df9c8fd1-7545-467f-b60d-6829b228adcf",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 42,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/90abee30-91c3-4e6e-9800-aa4ddcab58a3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 43,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/e67179d0-419c-4afe-a34b-588f446e9e67",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 44,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/b4d6b2eb-0a95-46bd-a199-b102b34af4fe",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 45,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/870ddaef-bd1e-4244-8371-9c09d8a5c32e",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 46,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/e5f1fb8a-62ee-4f96-97c7-a9da6fdd8adb",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 47,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/8e505ad0-dd63-4856-aa7e-6e9e9905945b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 48,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/cfa4c733-d8fd-4387-9d65-81c819af4df4",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 49,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/f77e2027-c493-4a00-a36c-8563ad520cda",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 50,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/6c0e6a14-9a1b-4886-9f53-5fa2bccf089c",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 51,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/8a2511d0-bfa0-4ac0-9c2c-c8ffb41a660e",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 52,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/dcf1bc03-e456-4032-b61d-9268f0cea12a",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 53,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/8c0436bc-81d9-404c-be7c-dc64fa067e6b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 54,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/c834064d-137c-4492-bf9a-0a6b45b43be3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 55,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/fefcd829-787b-4d69-b1d5-df41d2d349fb",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 1,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/f44cb8fd-2e46-4b97-8c31-b931775df4ae",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 2,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/f8d6a68c-f15e-4aae-a6cf-c5d3030aaa24",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 3,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/0e98448f-a0f3-4190-ba8e-eb1b7d2a8905",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 4,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/38705140-2b02-4688-a3d0-1c714c36fee0",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 5,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/44d83985-7299-4be5-87e4-9b6040f056cc",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 6,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/1a0a8a72-78f3-4afd-923a-62053f1d493b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 7,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/6641629d-8509-4390-af30-aaf6de77c725",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 8,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/c4d6fdd8-e447-4ffa-b071-f0f11ae93bcb",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 9,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/31072319-e8b7-4777-ba80-58bc3c23e64c",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 10,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/af828139-c577-45c6-8a4c-cd9a0c61ecfe",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 11,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/d9400518-5c53-435f-8123-c80ee2e0b41d",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 12,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/25a7ff0a-1632-463f-803d-ae9c045681bd",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 13,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/ff4b9270-e5b0-4738-bd39-51c5fb177f21",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 14,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/1022de28-3dd3-4dbd-befc-0a84438059bd",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 15,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/ae77807a-11e3-440c-97da-8fb874d99516",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 16,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/b5ba0e47-5ecc-49e2-a65c-822fcc4d42f0",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 17,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/802b7613-e2a0-4154-b3b5-2a72fa588b68",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 18,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/bc59c56d-9c19-4585-911c-b5a7028775e3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 19,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/1cdacf80-7db8-4655-828f-352c0789d6ea",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 20,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/f7f10b82-2dc5-4558-94f3-b0e155b91830",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 21,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/55a048a2-6e95-4d30-933a-b8ec7272f084",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 22,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/be78f6cd-96d2-4f28-a782-695cf7cfdb60",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 23,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/95a0746e-b966-434f-a97d-56aae01d7fee",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 24,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/69090e5c-c77d-42b0-9fca-b42be2a9b82b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 25,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/624331e1-b5a9-4ab3-9606-ba423432de3b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 26,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/0304b6f3-7cd0-4dca-b5e0-e393ce606aa0",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 27,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/0c7dbf79-0e4a-41ba-8c25-3d547e20ec0b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 28,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/e02cb23e-1e90-4428-a453-e5831e12972d",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 29,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/ad381445-8964-4b54-b3c7-43edd7577dfe",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 30,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/83415d22-f535-4a48-a63f-ba9b657fc1f8",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 31,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/0a7d1268-a33a-42e5-adc9-3683f1af7ba5",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 32,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/7bace06b-a03f-48ce-8b80-916cf3737e5b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 33,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/ce4890f5-dba9-4725-8ae6-c00a90c96da3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 34,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/50278f64-d778-4d32-a1ca-f104fa1a42b3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 35,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/b079c1de-fb4e-4bca-a7b4-a4e639844970",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 36,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/2e8f2ef7-2cea-4e72-bf7f-203bba9351f7",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 37,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/dc2b9366-fa5e-49b7-b10d-abd7f237a924",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 38,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/d27a08fe-f942-4a1e-9e40-5d0d961f2410",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 39,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/1737cdfe-2bf7-404c-99c8-9968f3f6f88a",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 40,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/6330d717-1a54-4f73-94d1-3e4f58de9445",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 41,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/df9c8fd1-7545-467f-b60d-6829b228adcf",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 42,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/90abee30-91c3-4e6e-9800-aa4ddcab58a3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 43,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/e67179d0-419c-4afe-a34b-588f446e9e67",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 44,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/b4d6b2eb-0a95-46bd-a199-b102b34af4fe",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 45,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/870ddaef-bd1e-4244-8371-9c09d8a5c32e",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 46,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/e5f1fb8a-62ee-4f96-97c7-a9da6fdd8adb",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 47,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/8e505ad0-dd63-4856-aa7e-6e9e9905945b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 48,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/cfa4c733-d8fd-4387-9d65-81c819af4df4",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 49,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/f77e2027-c493-4a00-a36c-8563ad520cda",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 50,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/6c0e6a14-9a1b-4886-9f53-5fa2bccf089c",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 51,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/8a2511d0-bfa0-4ac0-9c2c-c8ffb41a660e",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 52,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/dcf1bc03-e456-4032-b61d-9268f0cea12a",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 53,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/8c0436bc-81d9-404c-be7c-dc64fa067e6b",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 54,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/c834064d-137c-4492-bf9a-0a6b45b43be3",
+            "chapterID": 0
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "number": 55,
+            "link": "https://pack-yak.intomanga.com/images/manga/Name/chapter/NumberChapter/page/NumberPage/fefcd829-787b-4d69-b1d5-df41d2d349fb",
+            "chapterID": 0
+        }
+    ],
+    "mangaID": 0
+}
