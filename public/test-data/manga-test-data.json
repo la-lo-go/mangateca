@@ -3,2035 +3,1864 @@
     "CreatedAt": "0001-01-01T00:00:00Z",
     "UpdatedAt": "0001-01-01T00:00:00Z",
     "DeletedAt": null,
-    "name": "Jujutsu Kaisen",
-    "site": "nyaa",
-    "cover": "https://pack-yak.intomanga.com/thumbnails/manga/Jujutsu-Kaisen/d88692a5-c341-47fc-8e39-da11a8fdee82",
-    "chaptersNumber": 225,
+    "name": "Kimetsu no Yaiba",
+    "site": "InManga",
+    "cover": "https://inmanga.com/thumbnails/manga/Kimetsu-no-Yaiba/78352626-0e2c-4b10-9610-28abf57c6881",
+    "chaptersNumber": 206,
     "chaptersListed": [
         {
             "ID": 0,
             "CreatedAt": "0001-01-01T00:00:00Z",
             "UpdatedAt": "0001-01-01T00:00:00Z",
             "DeletedAt": null,
-            "name": "",
-            "number": 214,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/214"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 213,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/213"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 212,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/212"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 211,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/211"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 210,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/210"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 209,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/209"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 208,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/208"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 207,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/207"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 206,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/206"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 205,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/205"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 204,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/204"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 203,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/203"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 202,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/202"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 201,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/201"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 200,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/200"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 199,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/199"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 198,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/198"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 197,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/197"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 196,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/196"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 195,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/195"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 194,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/194"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 193,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/193"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 192,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/192"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 191,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/191"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 190,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/190"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 189,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/189"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 188,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/188"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 187,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/187"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 186,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/186"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 185,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/185"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 184,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/184"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 183,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/183"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 182,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/182"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 181,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/181"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 180.5,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/180.5"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 180,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/180"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 179.5,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/179.5"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 179,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/179"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 178.5,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/178.5"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 178,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/178"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 177,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/177"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 176,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/176"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 175,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/175"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 174,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/174"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 173,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/173"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 172,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/172"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 171,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/171"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 170,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/170"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 169,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/169"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 168.5,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/168.5"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 168,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/168"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 167,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/167"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 166,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/166"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 165,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/165"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 164,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/164"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 163,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/163"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 161,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/161"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 160,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/160"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 159,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/159"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 158,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/158"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 157,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/157"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 156,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/156"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 155,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/155"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 154,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/154"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 153,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/153"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 152,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/152"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 151,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/151"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 150,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/150"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 149,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/149"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 148,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/148"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 147,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/147"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 146,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/146"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 145,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/145"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 144,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/144"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 143,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/143"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 142,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/142"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 141,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/141"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 140,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/140"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 139,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/139"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 138,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/138"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 137,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/137"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 136,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/136"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 135,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/135"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 134,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/134"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 133,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/133"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 132.5,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/132.5"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 132.1,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/132.1"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 132,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/132"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 131,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/131"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 130,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/130"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 129.5,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/129.5"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 129,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/129"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 128,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/128"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 127,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/127"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 126,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/126"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 125,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/125"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 124,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/124"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 123,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/123"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 122,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/122"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 121,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/121"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 120,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/120"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 119,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/119"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 118,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/118"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 117,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/117"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 116,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/116"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 115,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/115"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 114,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/114"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 113,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/113"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 112,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/112"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 111,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/111"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 110,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/110"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 109,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/109"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 108,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/108"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 107,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/107"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 106,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/106"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 105,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/105"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 104,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/104"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 103,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/103"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 102,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/102"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 101,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/101"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 100,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/100"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 99,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/99"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 98,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/98"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 97,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/97"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 96,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/96"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 95,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/95"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 94,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/94"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 93,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/93"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 92,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/92"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 91,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/91"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 90,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/90"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 89,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/89"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 88,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/88"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 87,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/87"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 86,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/86"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 85,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/85"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 84,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/84"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 83,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/83"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 82,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/82"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 81,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/81"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 80,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/80"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 79,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/79"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 78,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/78"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 77,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/77"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 76,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/76"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 75,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/75"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 74,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/74"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 73,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/73"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 72,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/72"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 71.1,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/71.1"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 71,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/71"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 70.1,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/70.1"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 70,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/70"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 69.1,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/69.1"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 69,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/69"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 68,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/68"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 67,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/67"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 66,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/66"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 65,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/65"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 64,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/64"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 63,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/63"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 62,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/62"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 61,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/61"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 60,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/60"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 59,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/59"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 58,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/58"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 57,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/57"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 56,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/56"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 55,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/55"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 54,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/54"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 53,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/53"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 52,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/52"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 51,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/51"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 50,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/50"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 49,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/49"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 48,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/48"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 47,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/47"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 46,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/46"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 45,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/45"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 44,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/44"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 43,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/43"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 42,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/42"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 41,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/41"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 40,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/40"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 39,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/39"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 38,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/38"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 37,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/37"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 36,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/36"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 35,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/35"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 34,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/34"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 33,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/33"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 32,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/32"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 31,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/31"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 30,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/30"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 29,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/29"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 28,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/28"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 27,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/27"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 26,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/26"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 25.5,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/25.5"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 25,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/25"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 24,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/24"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 23,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/23"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 22,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/22"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 21,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/21"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 20,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/20"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 19,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/19"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 18,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/18"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 17,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/17"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 16.5,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/16.5"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 16,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/16"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 15,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/15"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 14,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/14"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 13,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/13"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 12,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/12"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 11,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/11"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 10,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/10"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 9,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/9"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 8,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/8"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 7,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/7"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 6,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/6"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 5,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/5"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 4,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/4"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 3,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/3"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
-            "number": 2,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/2"
-        },
-        {
-            "ID": 0,
-            "CreatedAt": "0001-01-01T00:00:00Z",
-            "UpdatedAt": "0001-01-01T00:00:00Z",
-            "DeletedAt": null,
-            "name": "",
+            "name": "Capítulo: 01",
             "number": 1,
-            "linkOriginal": "https://manganyaa.com/jujutsu-kaisen/leer-online-gratis-espanol/capitulo/1"
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/1/41a7ef61-a911-428d-ba28-f53e2bc6c44f"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 02",
+            "number": 2,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/2/e3484db3-8a82-452a-ab82-1232cc747db1"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 03",
+            "number": 3,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/3/8c25d0c4-5f1d-45e6-ac3c-ca23253e2cc4"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 04",
+            "number": 4,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/4/07f88ab4-b944-47ec-a0a0-c09a391822da"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 05",
+            "number": 5,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/5/5b7c525e-3122-4b8c-b5a6-3417ee71eb3a"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 06",
+            "number": 6,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/6/1ba8890f-abb8-45c1-be9a-cb5a7fd6ab79"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 07",
+            "number": 7,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/7/76c9f658-0e00-43bf-a762-462973da5b60"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 08",
+            "number": 8,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/8/c22bd1cc-4852-42a0-bfec-16be0a3f2010"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 09",
+            "number": 9,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/9/e9f6e86b-0be4-4426-a632-450d1116416d"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 10",
+            "number": 10,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/10/878e4322-ec69-47f7-8868-eb4fc1343b2d"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 11",
+            "number": 11,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/11/554ba5b9-1e9e-4efa-aa12-f9dde8466663"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 12",
+            "number": 12,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/12/459595d6-feb3-4955-b677-daaff26d9166"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 13",
+            "number": 13,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/13/a2d0c018-1429-471a-874d-0036c5bccb30"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 14",
+            "number": 14,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/14/00ab6efb-17ca-4039-b783-a5a583bf88c0"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 15",
+            "number": 15,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/15/6560b857-8090-435a-afc8-fd84653a62e2"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 16",
+            "number": 16,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/16/2f7f7bd2-522f-4808-901d-1ff2f6041467"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 17",
+            "number": 17,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/17/6ae37cc4-3416-4177-b4ef-e20d867c33e6"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 18",
+            "number": 18,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/18/ddf6bb6e-a33b-42a3-a144-331304b6b125"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 19",
+            "number": 19,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/19/eb161722-ace2-4cc6-b76b-839b0e7492f7"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 20",
+            "number": 20,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/20/dd0efff7-f55f-483c-9d9c-b45eda1473d1"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 21",
+            "number": 21,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/21/c30f1050-fe9c-4d5a-83b9-625f28c1ab8e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 22",
+            "number": 22,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/22/9a196368-3cf2-4cce-be63-17293e077bdd"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 23",
+            "number": 23,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/23/cf5f745d-f37b-4802-bbca-7441c483de74"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 24",
+            "number": 24,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/24/ca6d0ff5-fe58-44f8-b4e4-d3c8a87c3103"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 25",
+            "number": 25,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/25/db6aa237-621a-4943-879f-7f73bfa3e765"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 26",
+            "number": 26,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/26/5d566e5b-5893-437e-b997-5514184fb3ae"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 27",
+            "number": 27,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/27/00e014d1-8511-40bd-a247-bdfd3fa4e804"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 28",
+            "number": 28,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/28/03b0a6c4-9043-4074-a034-feb0d0418567"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 29",
+            "number": 29,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/29/b8db7ef0-bb16-427a-bd4d-a1429c029039"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 30",
+            "number": 30,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/30/d69e7575-3e67-411d-ad77-d1087ad3ea5d"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 31",
+            "number": 31,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/31/c4106e24-dd68-4f5e-8e21-8cc3672f2160"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 32",
+            "number": 32,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/32/d7b314af-6119-42c2-a2d1-e54e24942351"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 33",
+            "number": 33,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/33/c3d30dec-33c8-4bde-9fd8-196545051396"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 34",
+            "number": 34,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/34/a47cbf64-5075-4838-be00-35d5fc98ee4f"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 35",
+            "number": 35,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/35/73840a96-911a-4370-afa1-1f053a551cef"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 36",
+            "number": 36,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/36/0da1d35e-8305-437b-b2a3-8f734f00bd1f"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 37",
+            "number": 37,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/37/0e464aa7-f574-4018-b3da-7754bc0e678b"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 38",
+            "number": 38,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/38/d46440b7-06bd-4ab8-8742-f639fe50b642"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 39",
+            "number": 39,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/39/0ca45e05-6be8-4694-8cb6-a07ccc6ca370"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 40",
+            "number": 40,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/40/06f622ca-92c6-4f96-93ca-119e994dc926"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 41",
+            "number": 41,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/41/7db6c158-43c4-4d6b-847a-9148210b132b"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 42",
+            "number": 42,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/42/d4d674b1-26d8-493b-9254-103cb0f9d50a"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 43",
+            "number": 43,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/43/2dbfcd65-4341-400a-a584-055acd8877f9"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 44",
+            "number": 44,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/44/ba5614b0-249e-41d7-b8db-8a9adb749781"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 45",
+            "number": 45,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/45/c4df238e-2bcf-4e3b-9922-b053614c7329"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 46",
+            "number": 46,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/46/f14fee5c-b3bf-48e0-9b66-95983721c73c"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 47",
+            "number": 47,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/47/2e613f6e-ffc5-4fa0-b3bc-15e2c3c0349e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 48",
+            "number": 48,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/48/25b22513-bea8-4964-bbcd-d7f7b7ac48ed"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 49",
+            "number": 49,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/49/4554e2cc-2a77-455e-a877-255e413a5176"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 50",
+            "number": 50,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/50/2ba41def-db83-431c-8bb2-fea0aaa67105"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 51",
+            "number": 51,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/51/1c244a62-e359-4099-9e95-53d615a19814"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 52",
+            "number": 52,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/52/93849394-8bd9-40c0-9073-4754ccc36734"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 53",
+            "number": 53,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/53/5aa18a6f-0d13-4594-9418-17b19ce8c3c6"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 54",
+            "number": 54,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/54/b37bda00-9c4e-46d5-9e75-5e6321fecadb"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 55",
+            "number": 55,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/55/f448f96b-bbf3-4931-85cd-89089036a063"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 56",
+            "number": 56,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/56/b28312ac-416a-49b6-91e5-38f1cdd11403"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 57",
+            "number": 57,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/57/6db09495-967e-498b-b9ce-916fbf3929a6"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 58",
+            "number": 58,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/58/50c01aa8-893b-4390-a749-df2761bfb6dc"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 59",
+            "number": 59,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/59/ad28f845-9475-45d6-b0ed-3ebea1ee4f94"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 60",
+            "number": 60,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/60/06a9ad05-e30b-4e0c-9b26-41cc6e1f44d1"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 61",
+            "number": 61,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/61/6932508d-5bc1-49ce-b4dd-1fe1aa23d209"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 62",
+            "number": 62,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/62/f9d12107-02e2-4c11-aee8-1dc97b760d43"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 63",
+            "number": 63,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/63/2160ced3-7a96-4dc1-89d9-8360d4c39049"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 64",
+            "number": 64,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/64/94f24453-84a5-4167-8cee-6071e3ef222c"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 65",
+            "number": 65,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/65/2a739866-c45c-40c3-9da8-50fd54a1e2d3"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 66",
+            "number": 66,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/66/63d6ea07-345c-4640-9b97-dc36ca3e2fef"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 67",
+            "number": 67,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/67/7fe85059-9001-42cc-b5ba-3b2b3883663f"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 68",
+            "number": 68,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/68/0498e19b-1f74-4253-9b22-f376c0074bd3"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 69",
+            "number": 69,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/69/5d08a968-6c4a-4ed1-9b0a-151cbd9c34a1"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 70",
+            "number": 70,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/70/63e21a98-acdf-4e7f-910f-af66f1c1945c"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 71",
+            "number": 71,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/71/9c35c33b-26c8-4fe9-84e0-5ca93dae0282"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 72",
+            "number": 72,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/72/7a4f361e-e3a6-4da5-99fb-90f1a0ca1760"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 73",
+            "number": 73,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/73/aa721a29-7c89-4ee5-b097-6dbacf8e4419"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 74",
+            "number": 74,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/74/e0200d95-227e-41e2-a84d-2bf4e47bb602"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 75",
+            "number": 75,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/75/34abedfc-fb15-4db8-bc67-da7578101cfb"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 76",
+            "number": 76,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/76/f3c489c9-77b7-4dc4-9b95-2c99003aaae1"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 77",
+            "number": 77,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/77/3fa6ad46-f422-4f06-91cd-c760fbf12b82"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 78",
+            "number": 78,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/78/272e53cf-76e4-42f5-a47a-6aa314094af0"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 79",
+            "number": 79,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/79/23629d51-5321-4cb0-9e19-58599ec26ffc"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 80",
+            "number": 80,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/80/0b6e39fb-e28d-4a79-9df5-8aabb26a9209"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 81",
+            "number": 81,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/81/d948dc5d-6a35-41a2-ad12-d4b860a48798"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 82",
+            "number": 82,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/82/5f72a75b-fa2b-4b14-a76b-731fdebee089"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 83",
+            "number": 83,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/83/cbc33dde-5efb-415e-935e-6476d62f7c5f"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 84",
+            "number": 84,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/84/89e3610f-5f11-4baa-99c8-207fbb030c2c"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 85",
+            "number": 85,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/85/491e880b-d211-42fe-b8ae-7bf4611cf753"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 86",
+            "number": 86,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/86/8c72882b-a9b7-4c8c-adc3-8c2730d28967"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 87",
+            "number": 87,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/87/28591529-dd56-4184-9b03-2e20474c5703"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 88",
+            "number": 88,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/88/9860f619-bd5c-49c8-a9dc-9cf2a1580d12"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 89",
+            "number": 89,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/89/ad8e825a-d9ae-4323-b5d8-7879e444fb1f"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 90",
+            "number": 90,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/90/89437861-3aee-4852-abae-02cb8cc29d3e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 91",
+            "number": 91,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/91/7a513b85-14a9-4f81-beb7-da426d59b97f"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 92",
+            "number": 92,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/92/5bee49ef-dc0a-4a01-be53-fdeebc558de2"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 93",
+            "number": 93,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/93/f0c07ebb-2e13-4d1a-9e67-8106f777cc63"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 94",
+            "number": 94,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/94/59644efa-66cb-4c66-86b5-abe993664409"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 95",
+            "number": 95,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/95/3fa5d0f3-378c-4fe6-86bd-b2766914b524"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 96",
+            "number": 96,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/96/9ae21db7-d583-4162-a97f-d337c7332239"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 97",
+            "number": 97,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/97/545e2eb4-91f7-47f5-b746-f7d2afd87d57"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 98",
+            "number": 98,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/98/7657a570-be0b-4809-8acb-b93d529e45ef"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 99",
+            "number": 99,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/99/01a161d9-2e89-4a4a-af4b-f13d933422ab"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 100",
+            "number": 100,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/100/8ae1fe0e-811f-4dff-b157-73982ee79e42"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 101",
+            "number": 101,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/101/51405085-42d5-4a6d-91e3-d879f956e497"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 102",
+            "number": 102,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/102/33fe616d-1337-4a8d-ae99-ef4981cb6be6"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 103",
+            "number": 103,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/103/e826b639-3379-4b35-9cc8-64b46de74134"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 104",
+            "number": 104,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/104/663e35ee-81df-4037-a28d-13ed0ad68d43"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 105",
+            "number": 105,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/105/3eb57f0c-ee4c-486f-a2b2-37ac051dbe5e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 106",
+            "number": 106,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/106/8374cb00-e081-4785-bd5b-d415f8a5c97a"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 107",
+            "number": 107,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/107/a50c0656-ccc5-4ff9-8a7e-1fdf05a17698"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 108",
+            "number": 108,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/108/6bfb5603-9258-4a79-88aa-b495a8e52b20"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 109",
+            "number": 109,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/109/f5350138-208b-4f47-8be5-21a2ff594eb7"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 110",
+            "number": 110,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/110/6dd04dea-7323-4496-8f6c-b1e5e03704f8"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 111",
+            "number": 111,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/111/d54a55e1-0092-4a6c-833e-5ffbfafbc61a"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 112",
+            "number": 112,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/112/0ab40a2e-d1a7-45df-b51f-d9b4090b12d4"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 113",
+            "number": 113,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/113/2bd23640-a9fb-4c06-93f6-8eca15213e81"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 114",
+            "number": 114,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/114/54388a99-0b62-4aec-a23e-6c5d425d928a"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 115",
+            "number": 115,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/115/38b29f45-8ae5-4c28-a3b4-64162d4ba5c7"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 116",
+            "number": 116,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/116/207be67e-974a-40aa-9616-642e55cf9c80"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 117",
+            "number": 117,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/117/da2cd018-2dd3-45ac-a59f-3980651a9d9b"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 118",
+            "number": 118,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/118/a2ea8a10-7255-4b1a-bba3-370f651b7fbc"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 119",
+            "number": 119,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/119/886f85db-4d5e-4c0e-aab0-967af296b169"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 120",
+            "number": 120,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/120/7d3e9f9f-c143-4fb0-bffc-310204132a94"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 121",
+            "number": 121,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/121/9846f85f-eb7d-4043-9080-e033b83e33e3"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 122",
+            "number": 122,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/122/3db92521-f1ce-41e3-9764-a56f15514f95"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 123",
+            "number": 123,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/123/74ad6f7d-66ef-4340-8a48-3598a47762ab"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 124",
+            "number": 124,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/124/fc443556-15bf-4053-aca5-5a1a9ee5ed77"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 125",
+            "number": 125,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/125/044575a5-b29a-460e-91f4-95d41179d206"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 126",
+            "number": 126,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/126/1b88dc59-be87-4885-b85c-0567793cb6ca"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 127",
+            "number": 127,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/127/1177698e-9447-459c-8b0b-5625870f6c5e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 128",
+            "number": 128,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/128/3c441bf9-55f0-4cc8-afee-a2b0526d5733"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 129",
+            "number": 129,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/129/41a5f95d-b7b1-467a-a04f-6cf4a18e7529"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 130",
+            "number": 130,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/130/bf4515a3-cae7-4697-8a40-237b28721bbb"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 131",
+            "number": 131,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/131/dff13c13-fe51-4b9f-a3c8-14497f4b5576"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 132",
+            "number": 132,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/132/803abe86-83ab-45b6-a5f1-7ae26e482dd3"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 133",
+            "number": 133,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/133/1e1cfe94-3664-440d-898b-97ac755c4725"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 134",
+            "number": 134,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/134/d256b88f-b0d9-4449-bc9f-de8e74d5eced"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 135",
+            "number": 135,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/135/7c30ce1d-c0c6-4c7a-a8d1-10331cfe91dd"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 136",
+            "number": 136,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/136/730883a1-e185-4172-8e0d-afc8c7ff487a"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 137",
+            "number": 137,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/137/d15b9d2e-f12a-4ac0-b42e-5d509c48d0ba"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 138",
+            "number": 138,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/138/53c4b81c-9cf2-4ee3-8612-4bed1e36ef0f"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 139",
+            "number": 139,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/139/ddad5079-b563-41c2-97d5-8caf039f3621"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 140",
+            "number": 140,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/140/02d07772-e8a1-4135-bfb3-ea338b2f391d"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 141",
+            "number": 141,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/141/ce14ee26-2cef-4f48-ac87-002c53a47fab"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 142",
+            "number": 142,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/142/5e6d65a1-78d4-440b-8328-518fc9e81b1e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 143",
+            "number": 143,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/143/55a0f13f-b551-4d1b-b802-9a0c671c2c63"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 144",
+            "number": 144,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/144/4f605438-f325-4f22-8863-c4999677d19a"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 145",
+            "number": 145,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/145/06ec0336-654c-45c2-94c3-082ff3060a2d"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 146",
+            "number": 146,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/146/e29a67e7-afc4-4915-a68a-2f2cbfb4e2ed"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 147",
+            "number": 147,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/147/bb095f77-c1aa-4f96-b695-1f7524dd48a4"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 148",
+            "number": 148,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/148/0d2126c5-b6f3-46e0-bf31-0b3d4d2e8471"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 149",
+            "number": 149,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/149/680e86f8-ee00-4dab-9e0e-d24dd8cb7e1e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 150",
+            "number": 150,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/150/de4e1552-6955-4820-bb8a-ed06a41b1b70"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 151",
+            "number": 151,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/151/1c55ca10-1b54-4045-94f3-38b4411125f1"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 152",
+            "number": 152,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/152/36e275f2-56c8-456b-8fff-7cd3c6b45199"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 153",
+            "number": 153,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/153/c9924190-226a-4c6b-b1e8-a373a8c49d5d"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 154",
+            "number": 154,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/154/c39522c2-fa78-47cd-981c-a3e5a5e3ca99"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 155",
+            "number": 155,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/155/0cf7cd72-6f09-49ca-b1c0-764598bbb459"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 156",
+            "number": 156,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/156/bde371bf-1d26-4993-9096-1df0d1ac4bd5"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 157",
+            "number": 157,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/157/61aec703-75a4-489e-a49d-a7f830a305d9"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 158",
+            "number": 158,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/158/9299ab7e-15d6-4466-84a7-a1a7ea99301e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 159",
+            "number": 159,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/159/762fc358-a715-49f8-9994-12ce7db4f522"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 160",
+            "number": 160,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/160/694d4602-94eb-41b7-bc9f-c4c5e67c59ed"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 161",
+            "number": 161,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/161/6e9041c4-480e-4b04-8c5e-9a8d528164a2"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 162",
+            "number": 162,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/162/b53706bd-0276-4926-bb1f-0bb33c10a34e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 163",
+            "number": 163,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/163/2c95e8d2-02be-4841-8d3b-693e47ff6b27"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 164",
+            "number": 164,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/164/247f177c-4723-4c25-8028-41eba56fba5b"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 165",
+            "number": 165,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/165/af1db37e-198a-4484-9d39-152faed3bf66"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 166",
+            "number": 166,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/166/45678648-21a2-40b8-86c4-60aa6599b9ba"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 167",
+            "number": 167,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/167/21fcb8e4-173a-4615-acae-5d392e472f41"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 168",
+            "number": 168,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/168/19360705-97fc-4147-b237-2f6975878565"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 168.5",
+            "number": 168.5,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/168-5/6b777ea8-3725-4bbd-8822-60614417b1d3"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 169",
+            "number": 169,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/169/f90122cb-9d64-4462-aa07-55af548232fb"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 170",
+            "number": 170,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/170/2cb8b1e8-2dd2-4e9e-bb3e-ee2871c74561"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 171",
+            "number": 171,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/171/5b29aa2f-6b3d-4b95-956f-ac673ceb626e"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 172",
+            "number": 172,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/172/3b797382-1b2e-49f7-993b-0ba457b5cfd5"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 173",
+            "number": 173,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/173/9e93b8a4-3fc3-4060-90b1-c62d9a13657f"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 174",
+            "number": 174,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/174/e3af5095-2caa-4ae0-9703-5c8e2a8b407d"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 175",
+            "number": 175,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/175/b30952f8-88a6-4513-bfa5-7435d02060e7"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 176",
+            "number": 176,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/176/acd1eac9-de31-4fe5-942a-4f88e37c4141"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 177",
+            "number": 177,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/177/eb18faa0-26a8-4b1d-85d5-1206fe796708"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 178",
+            "number": 178,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/178/3ae64130-f9df-45d1-9051-51c603359b61"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 179",
+            "number": 179,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/179/988ff6e0-5468-4112-adbd-f87bd0aa57b9"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 180",
+            "number": 180,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/180/43d35c1c-b046-420e-86a3-a5c146e80f05"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 181",
+            "number": 181,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/181/4ef02f9b-0dc7-4815-83d1-cfc00869e787"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 182",
+            "number": 182,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/182/283fb88f-1cda-4dbf-8ba0-81f748db2c75"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 183",
+            "number": 183,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/183/7102c964-f4fc-4ee8-8825-feaa2e814ebd"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 184",
+            "number": 184,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/184/e36cb0ff-2e19-461c-8ec7-82c9e5f5f960"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 185",
+            "number": 185,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/185/4f939533-fdfc-4ecf-aadc-a6c9b01e0838"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 186",
+            "number": 186,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/186/c0de9142-0251-4a3f-ac73-943c3446dedc"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 187",
+            "number": 187,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/187/1891b606-3b90-4dd6-8661-662c9a19f82a"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 188",
+            "number": 188,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/188/c4e06575-9675-47c3-9294-f8f84081aac7"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 189",
+            "number": 189,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/189/66ae243c-e454-4897-aa2a-fb42814d7574"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 190",
+            "number": 190,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/190/9efa33bc-6108-48f2-b4b8-a666b5aff290"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 191",
+            "number": 191,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/191/3158d1b5-2177-4f69-828a-4eefd8f36bdf"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 192",
+            "number": 192,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/192/dbf023b4-8225-453e-b982-e2562405fdb3"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 193",
+            "number": 193,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/193/e12e2d73-50f6-4a08-85dc-2ffe4f6a79e8"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 194",
+            "number": 194,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/194/80e44e8e-1c38-45c0-9122-45449c94e61a"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 195",
+            "number": 195,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/195/02eefd28-a1aa-46cd-b8cf-bdc751c68eb8"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 196",
+            "number": 196,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/196/7c801d76-b00f-45e9-ba88-3195226d4311"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 197",
+            "number": 197,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/197/54d8a0c1-6efb-4968-969a-586de37caf08"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 198",
+            "number": 198,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/198/7f304d1f-1058-433b-b75f-38e9cd85dd53"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 199",
+            "number": 199,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/199/8c143098-ef9a-4ed5-9cb0-73166e38eaf4"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 200",
+            "number": 200,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/200/3c90e773-55c1-4de0-b7a6-b8f39d2a26ff"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 201",
+            "number": 201,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/201/e9c00c75-bbf9-427d-811d-279a1cf2125c"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 202",
+            "number": 202,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/202/ab5fdb74-8eea-4307-b4cb-f58c61c45f1b"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 203",
+            "number": 203,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/203/d2dd8f6e-95be-45d1-9a21-a59e5591f38b"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 204",
+            "number": 204,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/204/4c5aba44-1db7-475b-8fba-b060c8541e3d"
+        },
+        {
+            "ID": 0,
+            "CreatedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "0001-01-01T00:00:00Z",
+            "DeletedAt": null,
+            "name": "Capítulo: 205",
+            "number": 205,
+            "linkOriginal": "https://inmanga.com/ver/manga/kimetsu-no-yaiba/205/eff89092-3973-4b30-8880-ddf982dc715e"
         }
     ]
 }
