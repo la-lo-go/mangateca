@@ -17,8 +17,11 @@ export function ImageRequest({
   site,
 }: ImageRequestProps) {
   const [imageSrc, setImageSrc] = useState<string>(imagePlaceholder);
+  const [imageClass, setImageClass] = useState<string>(className+" animate-pulse");
 
   useEffect(() => {
+    setImageClass(className);
+
     if (imageLink === undefined || imageLink === "") {
       setImageSrc(imagePlaceholder);
       return;
@@ -52,8 +55,9 @@ export function ImageRequest({
       }
     }
     fetchImage();
+    return () => setImageClass(className);
   }, [imageLink]);
   
 
-  return <img src={imageSrc} alt={alt} className={className} />;
+  return <img src={imageSrc} alt={alt} className={imageClass} />;
 }
