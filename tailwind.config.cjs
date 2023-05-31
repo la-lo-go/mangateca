@@ -1,8 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"
-  ],
+  content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
     colors: {
       transparent: "transparent",
@@ -21,18 +19,22 @@ module.exports = {
         900: "#4c1d95",
       },
     },
-    
+
     extend: {
       backgroundImage: {
-        'oceanic-gradient': 'linear-gradient(to right top, rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234))',
+        "oceanic-gradient":
+          "linear-gradient(to right top, rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234))",
       },
       aspectRatio: {
-        '2/3': '2/3'
+        "2/3": "2/3",
       },
-    }
+    },
   },
 
-  plugins: [require("daisyui")],
+  plugins: [
+    require("daisyui"), 
+    require("@tailwindcss/line-clamp")
+  ],
 
   daisyui: {
     styled: true,
@@ -44,5 +46,4 @@ module.exports = {
     prefix: "",
     darkTheme: "dracula",
   },
-  
 };
