@@ -1,9 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="128.737 36.782 220.692 183.91" width="220.692" height="183.91" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1, 0, 0, 1, 36.782005, -0.000005)">
-    <rect x="91.955" y="110.346" width="36.782" height="110.346" style="fill: rgb(239, 153, 149);"/>
-    <rect x="147.128" y="110.346" width="36.782" height="110.346" style="fill: rgb(239, 153, 149);"/>
-    <rect x="202.301" y="110.346" width="36.782" height="110.346" style="fill: rgb(239, 153, 149);"/>
-    <path d="M 257.474 36.782 L 294.256 36.782 L 294.256 55.173 L 312.647 55.173 L 312.647 91.955 L 294.256 91.955 L 294.256 220.692 L 257.474 220.692 L 257.474 91.955 L 91.955 91.955 L 91.955 55.173 L 257.474 55.173 L 257.474 36.782 Z" style="fill: rgb(239, 153, 149);"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 289.65 289.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Nueva_muestra_de_degradado_1-3);
+      }
+
+      .cls-2 {
+        fill: url(#Nueva_muestra_de_degradado_1-4);
+      }
+
+      .cls-3 {
+        fill: #282a36;
+      }
+
+      .cls-4 {
+        fill: url(#Nueva_muestra_de_degradado_1-2);
+      }
+
+      .cls-5 {
+        fill: url(#Nueva_muestra_de_degradado_1);
+      }
+    </style>
+    <linearGradient id="Nueva_muestra_de_degradado_1" data-name="Nueva muestra de degradado 1" x1="16.09" y1="218.39" x2="89.65" y2="144.83" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f77ccc"/>
+      <stop offset="1" stop-color="#cf8ceb"/>
+    </linearGradient>
+    <linearGradient id="Nueva_muestra_de_degradado_1-2" data-name="Nueva muestra de degradado 1" x1="71.26" y1="218.39" x2="144.83" y2="144.83" xlink:href="#Nueva_muestra_de_degradado_1"/>
+    <linearGradient id="Nueva_muestra_de_degradado_1-3" data-name="Nueva muestra de degradado 1" x1="126.44" y1="218.39" x2="200" y2="144.83" xlink:href="#Nueva_muestra_de_degradado_1"/>
+    <linearGradient id="Nueva_muestra_de_degradado_1-4" data-name="Nueva muestra de degradado 1" x1="108.05" y1="181.61" x2="236.78" y2="52.87" xlink:href="#Nueva_muestra_de_degradado_1"/>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <rect class="cls-3" width="289.65" height="289.65"/>
+      <g>
+        <rect class="cls-5" x="34.48" y="126.44" width="36.78" height="110.35"/>
+        <rect class="cls-4" x="89.65" y="126.44" width="36.78" height="110.35"/>
+        <rect class="cls-1" x="144.83" y="126.44" width="36.78" height="110.35"/>
+        <path class="cls-2" d="m200,52.87h36.78v18.39h18.39v36.78h-18.39v128.74h-36.78V108.05H34.48v-36.78h165.52v-18.39Z"/>
+      </g>
+    </g>
   </g>
 </svg>
