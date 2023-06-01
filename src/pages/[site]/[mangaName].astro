@@ -29,7 +29,7 @@ if(!mangaInfo){
           alt={mangaInfo.name}
           site={site}
           className="max-w-sm rounded-2xl shadow-xl h-96"
-          client:only
+          client:idle
         />
         <div class="flex flex-col items-center">
           <h1 class="text-3xl font-bold justify-center">{mangaInfo.name}</h1>
@@ -43,7 +43,7 @@ if(!mangaInfo){
 
     <!-- Manga chapters -->
     <div class="lg:w-full max-lg:mt-0 mx-auto overflow-y-auto">
-      <table class="table table-auto table-zebra w-full">
+      <table class="table table-auto w-full">
         <thead>
           <tr>
             <th class="max-w-fit">Nº</th>

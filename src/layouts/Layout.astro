@@ -1,6 +1,6 @@
 ---
 import Footer from "../components/Footer.astro";
-import NavBarElements from "../components/NavBarElements.astro";
+import Navbar from "../components/Navbar.astro";
 
 export interface Props {
   title: string;
@@ -20,46 +20,21 @@ const PageTitle = title != "Home" ? `${PageName} | ${title}` : PageName;
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="manifest" href="/appmanifest.webmanifest">
+    <link rel="manifest" href="/appmanifest.webmanifest" />
     <title>{PageTitle}</title>
   </head>
   <body>
-    <!-- NAVBAR -->
-    <div class="flex flex-col h-screen align-middle">
-      <div class="drawer">
+    <div class="flex flex-col min-h-screen align-middle">
+      <div class="drawer min-h-screen">
         <input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
         <div class="drawer-content flex flex-col">
-          <div class="w-full navbar bg-base-300">
-            <div class="flex-none lg:hidden">
-              <label for="my-drawer-3" class="btn btn-square btn-ghost">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  class="inline-block w-6 h-6 stroke-current"
-                  ><path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M4 6h16M4 12h16M4 18h16"></path></svg
-                >
-              </label>
-            </div>
-            <div class="flex-1 px-2 mx-2 mb-2">
-              <a class="normal-case text-xl" href="/">
-                <h1><span class="bg-gradient-to-tr from-primary to-secondary bg-clip-text text-transparent">mangateca</span></h1>
-              </a>
-            </div>
-            <div class="flex-none hidden lg:block">
-              <ul class="menu menu-horizontal px-1">
-                <NavBarElements title={title} />
-              </ul>
-            </div>
-          </div>
+
+          <!-- Navbar -->
+          <Navbar title={title} />
 
           <!-- Page content -->
           <main
-            class="grow flex flex-col items-center justify-center container mx-auto"
+            class="flex h-full flex-col items-center justify-center container mx-auto"
           >
             <slot />
           </main>
@@ -68,13 +43,6 @@ const PageTitle = title != "Home" ? `${PageName} | ${title}` : PageName;
           <Footer />
         </div>
 
-        <!-- Drawer content here -->
-        <div class="drawer-side">
-          <label for="my-drawer-3" class="drawer-overlay"></label>
-          <ul class="menu p-4 w-80 bg-base-100">
-            <NavBarElements title={title} />
-          </ul>
-        </div>
       </div>
     </div>
   </body>
@@ -97,10 +65,6 @@ const PageTitle = title != "Home" ? `${PageName} | ${title}` : PageName;
   html {
     font-family: system-ui, sans-serif;
     background-color: #f6f6f6;
-  }
-  code {
-    font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
-      DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
   }
 
   h1 {
