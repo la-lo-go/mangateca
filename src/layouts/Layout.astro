@@ -27,14 +27,14 @@ const PageTitle = title != "Home" ? `${PageName} | ${title}` : PageName;
     <div class="flex flex-col min-h-screen align-middle">
       <div class="drawer min-h-screen">
         <input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
-        <div class="drawer-content flex flex-col">
+        <div class="w-full drawer-content flex flex-col">
 
           <!-- Navbar -->
           <Navbar title={title} />
 
           <!-- Page content -->
           <main
-            class="flex h-full flex-col items-center justify-center container mx-auto"
+            class="flex h-full w-screen flex-col items-center justify-center container mx-auto"
           >
             <slot />
           </main>
