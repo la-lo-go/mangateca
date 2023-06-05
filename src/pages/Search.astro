@@ -15,7 +15,6 @@ import { config } from "dotenv";
 config();
 
 const serverURL = process.env.SERVER_URL || `http://localhost:7070`;
-console.log("serverURL", serverURL);
 
 const requestUrl = `${serverURL}/busqueda?search=${query}`;
 const response =  await fetch(requestUrl)
