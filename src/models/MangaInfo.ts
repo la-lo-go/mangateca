@@ -1,21 +1,19 @@
-export interface MangaInfo {
-    ID: number
-    CreatedAt: string
-    UpdatedAt: string
-    DeletedAt: any
-    name: string
-    site: string
-    cover: string
-    chaptersNumber: number
-    chaptersListed: ChaptersListed[]
-  }
-  
-export interface ChaptersListed {
-ID: number
-CreatedAt: string
-UpdatedAt: string
-DeletedAt: any
-name: string
-number: number
-linkOriginal: string
+import type { Chapter } from './Chapter'
+
+export interface Root {
+  ID: number
+  CreatedAt: string
+  UpdatedAt: string
+  DeletedAt: any
+  name: string
+  nameJoined: string
+  site: string
+  link: string
+  chaptersNumber: number
+  cover: string
+  webID: string
+  Searches: any
+  chapters: Chapter[]
 }
+
+
