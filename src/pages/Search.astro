@@ -3,10 +3,28 @@ import Layout from "../layouts/Layout.astro";
 import SearchBar from "../components/SearchBar.astro";
 import MangasSitesGrouped from "../components/MangaSitesGrouped.astro";
 
-import searchResponse from "../../public/test-data/search-test-data.json";
-
 const site = Astro.url.searchParams.get("fuente")! || "Todas";
 const query = Astro.url.searchParams.get("search")! || "";
+
+console.log("query", query);
+if(query == ""){
+  return Astro.redirect("./404");
+}
+
+import { config } from "dotenv";
+config();
+
+const serverIP = process.env.SERVER_IP || "localhost";
+const serverPort = process.env.SERVER_PORT || "3000";
+const serverURL = `${serverIP}:${serverPort}`;
+
+const requestUrl = `http://${serverURL}/busqueda?search=${query}`;
+const response =  await fetch(requestUrl)
+const searchResponse = await response.json();
+
+if(response.status === 404){
+  return Astro.redirect("./404");
+}
 
 const description = `Resultados de la busqueda en Mangateca de ${query}`;
 ---

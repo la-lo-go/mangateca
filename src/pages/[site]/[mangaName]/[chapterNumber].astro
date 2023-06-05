@@ -5,29 +5,42 @@ import type { Chapter, Page } from "../../../models/Chapter";
 
 const { site, mangaName, chapterNumber } = Astro.params;
 
-import chapterResponse from "../../../../public/test-data/chapter-test-data.json";
+const serverIP = process.env.SERVER_IP || "localhost";
+const serverPort = process.env.SERVER_PORT || "7070";
+const serverURL = `${serverIP}:${serverPort}`;
 
-const chapter: Chapter = chapterResponse;
+console.log(serverURL);
+
+const requestUrl = `http://${serverURL}/manga/${site}/${mangaName}/${chapterNumber}`;
+const response = await fetch(requestUrl);
+const chapter: Chapter = await response.json();
+
+if (response.status === 404 || !chapter) {
+  return Astro.redirect("/404");
+}
+
 const mangaNamePretty = chapter.name.replace(/-/g, " ");
 const title = `${mangaNamePretty} ${chapterNumber}`;
 const description = `Lee el capitulo número ${chapterNumber} de ${mangaNamePretty} gratis y sin anuncios en Mangateca`;
 const mangaLink = `../${mangaName}`;
-if (!chapter) {
-  return Astro.redirect("/404");
-}
 ---
 
 <Layout title={title} description={description}>
   <div class="breadcrumbs capitalize text-2xl">
     <ul>
-      <li><a href={mangaLink} class="hover:decoration-primary">{mangaNamePretty}</a></li>
+      <li>
+        <a href={mangaLink} class="hover:decoration-primary"
+          >{mangaNamePretty}</a>
+      </li>
       <li>{chapterNumber}</li>
     </ul>
   </div>
 
-  <div class="flex flex-wrap items-center justify-center my-8 gap-y-4 max-md:w-screen">
+  <div
+    class="flex flex-wrap items-center justify-center my-8 gap-y-4 max-md:w-screen"
+  >
     <div
-      class="flex flex-wrap items-center gap-8 w-10/12 max-md:w-full max-md:gap-2 max-md:bg-base-200 dark:bg-none "
+      class="flex flex-wrap items-center gap-8 w-10/12 max-md:w-full max-md:gap-2 max-md:bg-base-200 dark:bg-none"
     >
       {
         chapter.pages.map((page: Page) => (
@@ -49,9 +62,11 @@ if (!chapter) {
           return (
             <div class="flex items-center justify-center w-full">
               <div class="flex justify-around w-full">
-                <a href={`./${+chapterNumber - 1}`} class="btn">
-                  Anterior
-                </a>
+                {+chapterNumber > 1 && (
+                  <a href={`./${+chapterNumber - 1}`} class="btn">
+                    Anterior
+                  </a>
+                )}
                 <a href={`./${+chapterNumber + 1}`} class="btn">
                   Siguiente
                 </a>

@@ -6,14 +6,19 @@ import { ImageRequest } from "../../components/ImageRequest";
 
 const { site, mangaName } = Astro.params;
 
-import mangaResponse from "../../../public/test-data/manga-test-data.json";
+const serverIP = process.env.SERVER_IP || "localhost";
+const serverPort = process.env.SERVER_PORT || "3000";
+const serverURL = `${serverIP}:${serverPort}`;
 
-const manga: Manga = mangaResponse;
-const description = `Lee ${manga.name} gratis y sin anuncios en Mangateca`;
+const requestUrl = `http://${serverURL}/manga/${site}/${mangaName}`;
+const response =  await fetch(requestUrl)
+const manga : Manga = await response.json();
 
-if(!manga){
-  return Astro.redirect("../404");
+if(response.status === 404){
+  return Astro.redirect("/404");
 }
+
+const description = `Lector de manga online de ${manga.name} en ${site}. Lee ${manga.chaptersNumber} capítulos de ${manga.name} en ${site} gratis y sin anuncios.`;
 ---
 
 <Layout title="Manga" description={description}>
