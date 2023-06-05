@@ -14,11 +14,10 @@ if(query == ""){
 import { config } from "dotenv";
 config();
 
-const serverIP = process.env.SERVER_IP || "localhost";
-const serverPort = process.env.SERVER_PORT || "3000";
-const serverURL = `${serverIP}:${serverPort}`;
+const serverURL = process.env.SERVER_URL || `http://localhost:7070`;
+console.log("serverURL", serverURL);
 
-const requestUrl = `http://${serverURL}/busqueda?search=${query}`;
+const requestUrl = `${serverURL}/busqueda?search=${query}`;
 const response =  await fetch(requestUrl)
 const searchResponse = await response.json();
 

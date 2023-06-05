@@ -6,11 +6,9 @@ import { ImageRequest } from "../../components/ImageRequest";
 
 const { site, mangaName } = Astro.params;
 
-const serverIP = process.env.SERVER_IP || "localhost";
-const serverPort = process.env.SERVER_PORT || "3000";
-const serverURL = `${serverIP}:${serverPort}`;
+const serverURL = process.env.SERVER_URL || `http://localhost:7070`;
 
-const requestUrl = `http://${serverURL}/manga/${site}/${mangaName}`;
+const requestUrl = `${serverURL}/manga/${site}/${mangaName}`;
 const response =  await fetch(requestUrl)
 const manga : Manga = await response.json();
 

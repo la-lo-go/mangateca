@@ -5,13 +5,11 @@ import type { Chapter, Page } from "../../../models/Chapter";
 
 const { site, mangaName, chapterNumber } = Astro.params;
 
-const serverIP = process.env.SERVER_IP || "localhost";
-const serverPort = process.env.SERVER_PORT || "7070";
-const serverURL = `${serverIP}:${serverPort}`;
+const serverURL = process.env.SERVER_URL || `http://localhost:7070`;
 
 console.log(serverURL);
 
-const requestUrl = `http://${serverURL}/manga/${site}/${mangaName}/${chapterNumber}`;
+const requestUrl = `${serverURL}/manga/${site}/${mangaName}/${chapterNumber}`;
 const response = await fetch(requestUrl);
 const chapter: Chapter = await response.json();
 
